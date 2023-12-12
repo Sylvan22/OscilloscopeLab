@@ -47,17 +47,17 @@ c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeosci
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\touchgfx\generated\gui_generated\include\gui_generated\mainview_screen\mainviewviewbase.hpp:23:13:virtual MainViewViewBase::~MainViewViewBase()	16	static
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\touchgfx\gui\include\gui\mainview_screen\mainviewview.hpp:13:13:MainViewView::~MainViewView()	16	static
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\touchgfx\gui\include\gui\mainview_screen\mainviewview.hpp:13:13:virtual MainViewView::~MainViewView()	16	static
-../TouchGFX/gui/src/mainview_screen/MainViewView.cpp:7:1:MainViewView::MainViewView()	16	static
-../TouchGFX/gui/src/mainview_screen/MainViewView.cpp:15:15:static MainViewView* MainViewView::getInstance()	4	static
-../TouchGFX/gui/src/mainview_screen/MainViewView.cpp:19:6:virtual void MainViewView::setupScreen()	16	static
-../TouchGFX/gui/src/mainview_screen/MainViewView.cpp:24:6:virtual void MainViewView::tearDownScreen()	16	static
-../TouchGFX/gui/src/mainview_screen/MainViewView.cpp:29:6:virtual void MainViewView::onBtnPlusPressed()	16	static
-../TouchGFX/gui/src/mainview_screen/MainViewView.cpp:33:6:virtual void MainViewView::onBtnMinusPressed()	16	static
-../TouchGFX/gui/src/mainview_screen/MainViewView.cpp:37:6:virtual void MainViewView::onCheckBoxTriggerPressed()	24	static
-../TouchGFX/gui/src/mainview_screen/MainViewView.cpp:45:6:void MainViewView::setModeSignal(std::string)	16	static
-../TouchGFX/gui/src/mainview_screen/MainViewView.cpp:50:6:void MainViewView::setFreqSignal(std::string)	16	static
-../TouchGFX/gui/src/mainview_screen/MainViewView.cpp:55:6:void MainViewView::setLabelDivTime(std::string)	16	static
-../TouchGFX/gui/src/mainview_screen/MainViewView.cpp:60:6:void MainViewView::drawGraph(uint16_t*, uint16_t, float)	32	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/gui/src/mainview_screen/MainViewView.cpp:7:1:MainViewView::MainViewView()	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/gui/src/mainview_screen/MainViewView.cpp:15:15:static MainViewView* MainViewView::getInstance()	4	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/gui/src/mainview_screen/MainViewView.cpp:19:6:virtual void MainViewView::setupScreen()	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/gui/src/mainview_screen/MainViewView.cpp:24:6:virtual void MainViewView::tearDownScreen()	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/gui/src/mainview_screen/MainViewView.cpp:29:6:virtual void MainViewView::onBtnPlusPressed()	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/gui/src/mainview_screen/MainViewView.cpp:33:6:virtual void MainViewView::onBtnMinusPressed()	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/gui/src/mainview_screen/MainViewView.cpp:37:6:virtual void MainViewView::onCheckBoxTriggerPressed()	24	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/gui/src/mainview_screen/MainViewView.cpp:45:6:void MainViewView::setModeSignal(std::string)	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/gui/src/mainview_screen/MainViewView.cpp:50:6:void MainViewView::setFreqSignal(std::string)	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/gui/src/mainview_screen/MainViewView.cpp:55:6:void MainViewView::setLabelDivTime(std::string)	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/gui/src/mainview_screen/MainViewView.cpp:60:6:void MainViewView::drawGraph(uint16_t*, uint16_t, float)	32	static
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\middlewares\st\touchgfx\framework\include\touchgfx\containers\container.hpp:42:7:touchgfx::Container::~Container()	16	static
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\middlewares\st\touchgfx\framework\include\touchgfx\containers\container.hpp:42:7:virtual touchgfx::Container::~Container()	16	static
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\middlewares\st\touchgfx\framework\include\touchgfx\widgets\box.hpp:36:7:touchgfx::Box::~Box()	16	static

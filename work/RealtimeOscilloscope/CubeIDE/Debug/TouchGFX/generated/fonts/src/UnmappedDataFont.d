@@ -1,5 +1,5 @@
 TouchGFX/generated/fonts/src/UnmappedDataFont.o: \
- ../TouchGFX/generated/fonts/src/UnmappedDataFont.cpp \
+ C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/generated/fonts/src/UnmappedDataFont.cpp \
  c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\touchgfx\generated\fonts\include\fonts\unmappeddatafont.hpp \
  c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\middlewares\st\touchgfx\framework\include\touchgfx\font.hpp \
  c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\middlewares\st\touchgfx\framework\include\touchgfx\unicode.hpp \

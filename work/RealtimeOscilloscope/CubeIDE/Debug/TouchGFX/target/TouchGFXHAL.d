@@ -1,4 +1,5 @@
-TouchGFX/target/TouchGFXHAL.o: ../TouchGFX/target/TouchGFXHAL.cpp \
+TouchGFX/target/TouchGFXHAL.o: \
+ C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/target/TouchGFXHAL.cpp \
  c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\touchgfx\target\touchgfxhal.hpp \
  c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\touchgfx\target\generated\touchgfxgeneratedhal.hpp \
  c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\middlewares\st\touchgfx\framework\include\touchgfx\hal\hal.hpp \

@@ -1,5 +1,5 @@
 TouchGFX/target/STM32TouchController.o: \
- ../TouchGFX/target/STM32TouchController.cpp \
+ C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/target/STM32TouchController.cpp \
  c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\touchgfx\target\stm32touchcontroller.hpp \
  c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\middlewares\st\touchgfx\framework\include\platform\driver\touch\touchcontroller.hpp \
  c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\middlewares\st\touchgfx\framework\include\touchgfx\hal\types.hpp \

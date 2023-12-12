@@ -1,5 +1,5 @@
 TouchGFX/generated/texts/src/TypedTextDatabase.o: \
- ../TouchGFX/generated/texts/src/TypedTextDatabase.cpp \
+ C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/generated/texts/src/TypedTextDatabase.cpp \
  c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\middlewares\st\touchgfx\framework\include\touchgfx\typedtext.hpp \
  c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\middlewares\st\touchgfx\framework\include\touchgfx\font.hpp \
  c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\middlewares\st\touchgfx\framework\include\touchgfx\unicode.hpp \

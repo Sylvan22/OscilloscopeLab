@@ -31,6 +31,7 @@ CPP_DEPS :=
 
 # Every subdirectory with source files must be described here
 SUBDIRS := \
+Components/ft5336 \
 Core/Src \
 Core/Startup \
 Drivers/STM32F7xx_HAL_Driver/Src \
@@ -50,22 +51,22 @@ TouchGFX/target \
 TouchGFX/target/generated \
 USB_HOST/App \
 USB_HOST/Target \
-app \
-app/interface \
-event \
-mdw/ext-freqgen \
-mdw/trace/examples \
-platform/f7-disco-gcc/board \
-platform/f7-disco-gcc/ext-26pin \
-platform/f7-disco-gcc/mcu/critical \
-platform/f7-disco-gcc/mcu/hal \
-xf/core \
-xf/port/active-qt \
-xf/port/default \
-xf/port/default-cmsis-os \
-xf/port/default-idf \
-xf/port/default-qt \
-xf/port/idf-qt \
-xf/port/idf-stm32cube \
-xf/port/stm32cube-cmsis-freertos \
+src/app \
+src/app/interface \
+src/event \
+src/mdw/ext-freqgen \
+src/mdw/trace/examples \
+src/platform/f7-disco-gcc/board \
+src/platform/f7-disco-gcc/ext-26pin \
+src/platform/f7-disco-gcc/mcu/critical \
+src/platform/f7-disco-gcc/mcu/hal \
+src/xf/core \
+src/xf/port/active-qt \
+src/xf/port/default \
+src/xf/port/default-cmsis-os \
+src/xf/port/default-idf \
+src/xf/port/default-qt \
+src/xf/port/idf-qt \
+src/xf/port/idf-stm32cube \
+src/xf/port/stm32cube-cmsis-freertos \
 

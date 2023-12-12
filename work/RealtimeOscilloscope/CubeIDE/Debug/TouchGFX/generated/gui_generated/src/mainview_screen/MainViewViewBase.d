@@ -1,5 +1,5 @@
 TouchGFX/generated/gui_generated/src/mainview_screen/MainViewViewBase.o: \
- ../TouchGFX/generated/gui_generated/src/mainview_screen/MainViewViewBase.cpp \
+ C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/generated/gui_generated/src/mainview_screen/MainViewViewBase.cpp \
  c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\touchgfx\generated\gui_generated\include\gui_generated\mainview_screen\mainviewviewbase.hpp \
  c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\touchgfx\gui\include\gui\common\frontendapplication.hpp \
  c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\touchgfx\generated\gui_generated\include\gui_generated\common\frontendapplicationbase.hpp \

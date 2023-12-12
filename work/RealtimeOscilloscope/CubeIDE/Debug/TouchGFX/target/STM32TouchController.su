@@ -1,12 +1,12 @@
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\middlewares\st\touchgfx\framework\include\platform\driver\touch\touchcontroller.hpp:33:13:touchgfx::TouchController::~TouchController()	16	static
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\middlewares\st\touchgfx\framework\include\platform\driver\touch\touchcontroller.hpp:33:13:virtual touchgfx::TouchController::~TouchController()	16	static
-../TouchGFX/target/STM32TouchController.cpp:29:6:virtual void STM32TouchController::init()	16	static
-../TouchGFX/target/STM32TouchController.cpp:38:6:virtual bool STM32TouchController::sampleTouch(int32_t&, int32_t&)	24	static
-../TouchGFX/target/STM32TouchController.cpp:68:13:void I2Cx_Error(I2C_HandleTypeDef*, uint8_t)	16	static
-../TouchGFX/target/STM32TouchController.cpp:87:26:HAL_StatusTypeDef I2Cx_ReadMultiple(I2C_HandleTypeDef*, uint8_t, uint16_t, uint16_t, uint8_t*, uint16_t)	48	static
-../TouchGFX/target/STM32TouchController.cpp:117:26:HAL_StatusTypeDef I2Cx_WriteMultiple(I2C_HandleTypeDef*, uint8_t, uint16_t, uint16_t, uint8_t*, uint16_t)	48	static
-../TouchGFX/target/STM32TouchController.cpp:144:6:void TS_IO_Write(uint8_t, uint8_t, uint8_t)	24	static
-../TouchGFX/target/STM32TouchController.cpp:155:9:uint8_t TS_IO_Read(uint8_t, uint8_t)	32	static
-../TouchGFX/target/STM32TouchController.cpp:169:6:void TS_IO_Delay(uint32_t)	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/target/STM32TouchController.cpp:29:6:virtual void STM32TouchController::init()	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/target/STM32TouchController.cpp:38:6:virtual bool STM32TouchController::sampleTouch(int32_t&, int32_t&)	24	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/target/STM32TouchController.cpp:68:13:void I2Cx_Error(I2C_HandleTypeDef*, uint8_t)	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/target/STM32TouchController.cpp:87:26:HAL_StatusTypeDef I2Cx_ReadMultiple(I2C_HandleTypeDef*, uint8_t, uint16_t, uint16_t, uint8_t*, uint16_t)	48	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/target/STM32TouchController.cpp:117:26:HAL_StatusTypeDef I2Cx_WriteMultiple(I2C_HandleTypeDef*, uint8_t, uint16_t, uint16_t, uint8_t*, uint16_t)	48	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/target/STM32TouchController.cpp:144:6:void TS_IO_Write(uint8_t, uint8_t, uint8_t)	24	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/target/STM32TouchController.cpp:155:9:uint8_t TS_IO_Read(uint8_t, uint8_t)	32	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/target/STM32TouchController.cpp:169:6:void TS_IO_Delay(uint32_t)	16	static
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\touchgfx\target\stm32touchcontroller.hpp:33:7:STM32TouchController::~STM32TouchController()	16	static
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\touchgfx\target\stm32touchcontroller.hpp:33:7:virtual STM32TouchController::~STM32TouchController()	16	static

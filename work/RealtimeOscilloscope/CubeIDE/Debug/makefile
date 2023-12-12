@@ -9,24 +9,24 @@ RM := rm -rf
 
 # All of the sources participating in the build are defined here
 -include sources.mk
--include xf/port/stm32cube-cmsis-freertos/subdir.mk
--include xf/port/idf-stm32cube/subdir.mk
--include xf/port/idf-qt/subdir.mk
--include xf/port/default-qt/subdir.mk
--include xf/port/default-idf/subdir.mk
--include xf/port/default-cmsis-os/subdir.mk
--include xf/port/default/subdir.mk
--include xf/port/active-qt/subdir.mk
--include xf/core/subdir.mk
--include platform/f7-disco-gcc/mcu/hal/subdir.mk
--include platform/f7-disco-gcc/mcu/critical/subdir.mk
--include platform/f7-disco-gcc/ext-26pin/subdir.mk
--include platform/f7-disco-gcc/board/subdir.mk
--include mdw/trace/examples/subdir.mk
--include mdw/ext-freqgen/subdir.mk
--include event/subdir.mk
--include app/interface/subdir.mk
--include app/subdir.mk
+-include src/xf/port/stm32cube-cmsis-freertos/subdir.mk
+-include src/xf/port/idf-stm32cube/subdir.mk
+-include src/xf/port/idf-qt/subdir.mk
+-include src/xf/port/default-qt/subdir.mk
+-include src/xf/port/default-idf/subdir.mk
+-include src/xf/port/default-cmsis-os/subdir.mk
+-include src/xf/port/default/subdir.mk
+-include src/xf/port/active-qt/subdir.mk
+-include src/xf/core/subdir.mk
+-include src/platform/f7-disco-gcc/mcu/hal/subdir.mk
+-include src/platform/f7-disco-gcc/mcu/critical/subdir.mk
+-include src/platform/f7-disco-gcc/ext-26pin/subdir.mk
+-include src/platform/f7-disco-gcc/board/subdir.mk
+-include src/mdw/trace/examples/subdir.mk
+-include src/mdw/ext-freqgen/subdir.mk
+-include src/event/subdir.mk
+-include src/app/interface/subdir.mk
+-include src/app/subdir.mk
 -include USB_HOST/Target/subdir.mk
 -include USB_HOST/App/subdir.mk
 -include TouchGFX/target/generated/subdir.mk
@@ -46,6 +46,7 @@ RM := rm -rf
 -include Drivers/STM32F7xx_HAL_Driver/Src/subdir.mk
 -include Core/Startup/subdir.mk
 -include Core/Src/subdir.mk
+-include Components/ft5336/subdir.mk
 -include objects.mk
 
 ifneq ($(MAKECMDGOALS),clean)

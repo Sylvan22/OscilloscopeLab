@@ -9,6 +9,7 @@
 #include "xf/behavior.h"
 #include "interface/buttonscontrollercallbackcaller.h"
 
+extern "C" void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin);
 /**
  * @brief ButtonsController handles/generates button pressed- and released pressed events.
  *

@@ -107,8 +107,6 @@ void Error_Handler(void);
 #define LCD_B1_GPIO_Port GPIOJ
 #define OTG_FS_VBUS_Pin GPIO_PIN_12
 #define OTG_FS_VBUS_GPIO_Port GPIOJ
-#define Audio_INT_Pin GPIO_PIN_6
-#define Audio_INT_GPIO_Port GPIOD
 #define FMC_D2_Pin GPIO_PIN_0
 #define FMC_D2_GPIO_Port GPIOD
 #define SDMMC_D3_Pin GPIO_PIN_11
@@ -141,8 +139,10 @@ void Error_Handler(void);
 #define FMC_D3_GPIO_Port GPIOD
 #define BUTTON1_Pin GPIO_PIN_3
 #define BUTTON1_GPIO_Port GPIOI
+#define BUTTON1_EXTI_IRQn EXTI3_IRQn
 #define BUTTON0_Pin GPIO_PIN_2
 #define BUTTON0_GPIO_Port GPIOI
+#define BUTTON0_EXTI_IRQn EXTI2_IRQn
 #define OTG_FS_N_Pin GPIO_PIN_11
 #define OTG_FS_N_GPIO_Port GPIOA
 #define uSD_Detect_Pin GPIO_PIN_13
@@ -239,8 +239,10 @@ void Error_Handler(void);
 #define LCD_G2_GPIO_Port GPIOJ
 #define BUTTON2_Pin GPIO_PIN_7
 #define BUTTON2_GPIO_Port GPIOG
+#define BUTTON2_EXTI_IRQn EXTI9_5_IRQn
 #define BUTTON3_Pin GPIO_PIN_6
 #define BUTTON3_GPIO_Port GPIOG
+#define BUTTON3_EXTI_IRQn EXTI9_5_IRQn
 #define ARDUINO_A4_Pin GPIO_PIN_7
 #define ARDUINO_A4_GPIO_Port GPIOF
 #define ARDUINO_A5_Pin GPIO_PIN_6

@@ -1,0 +1,3 @@
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/platform/f7-disco-gcc/ext-26pin/ext_26pin.c:9:9:Ext_Debug_Init	32	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/platform/f7-disco-gcc/ext-26pin/ext_26pin.c:25:9:Ext_FreqGen_Init	48	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/platform/f7-disco-gcc/ext-26pin/ext_26pin.c:89:6:Ext_FreqGen_Set	32	static

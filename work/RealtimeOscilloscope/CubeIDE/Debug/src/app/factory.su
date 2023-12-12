@@ -1,0 +1,27 @@
+c:\st\stm32cubeide_1.9.0\stm32cubeide\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.win32_1.0.0.202111181127\tools\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v7e-m+fp/hard/bits/gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/interface/guiobserver.h:9:13:interface::GuiObserver::~GuiObserver()	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/interface/guiobserver.h:9:13:virtual interface::GuiObserver::~GuiObserver()	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.h:41:10:oscilloscope::Controller::~Controller()	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.h:41:10:virtual oscilloscope::Controller::~Controller()	16	static
+c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\platform\f7-disco-gcc\board\interface\buttonscontrollercallbackprovider.h:14:13:interface::ButtonsControllerCallbackProvider::~ButtonsControllerCallbackProvider()	16	static
+c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\platform\f7-disco-gcc\board\interface\buttonscontrollercallbackprovider.h:14:13:virtual interface::ButtonsControllerCallbackProvider::~ButtonsControllerCallbackProvider()	16	static
+c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\platform\f7-disco-gcc\board\buttonscontroller.h:33:17:void ButtonsController::start()	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/factory.cpp:15:6:void Factory_initialize()	8	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/factory.cpp:21:6:void Factory_build()	8	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/factory.cpp:26:1:Factory::Factory()	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/factory.cpp:32:6:static void Factory::initialize()	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/factory.cpp:47:6:static void Factory::build()	24	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/factory.cpp:68:28:static oscilloscope::Controller& Factory::getOscilloscopeController()	8	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/factory.cpp:74:21:static oscilloscope::Gui& Factory::getGui()	4	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/factory.cpp:80:20:static ButtonsController& Factory::getButtonsController()	4	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/factory.cpp:85:34:static oscilloscope::FreqGenController& Factory::getFreqGenController()	4	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/factory.cpp:94:25:void __tcf_0()	8	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/factory.cpp:92:16:static TouchGfxTask& Factory::getTouchGfxTask()	8	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/factory.cpp:99:21:static external::FrequencyGenerator& Factory::getFrequencyGenerator()	4	static
+c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\app\freqgencontroller.h:32:7:oscilloscope::FreqGenController::~FreqGenController()	16	static
+c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\app\freqgencontroller.h:32:7:virtual oscilloscope::FreqGenController::~FreqGenController()	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/factory.cpp:101:1:void __static_initialization_and_destruction_0(int, int)	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/touchgfxtask.h:12:7:TouchGfxTask::~TouchGfxTask()	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/touchgfxtask.h:12:7:virtual TouchGfxTask::~TouchGfxTask()	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/factory.cpp:101:1:cpp)	8	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/factory.cpp:101:1:cpp)	8	static

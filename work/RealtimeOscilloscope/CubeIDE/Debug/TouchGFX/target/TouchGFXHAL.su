@@ -25,20 +25,20 @@ c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeosci
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\touchgfx\target\touchgfxhal.hpp:103:18:virtual void TouchGFXHAL::flushFrameBuffer()	16	static
 ../Drivers/CMSIS/Include/core_cm7.h:2427:22:void SCB_CleanInvalidateDCache()	24	static,ignoring_inline_asm
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\touchgfx\target\cortexmmcuinstrumentation.hpp:20:7:touchgfx::CortexMMCUInstrumentation::CortexMMCUInstrumentation()	16	static
-../TouchGFX/target/TouchGFXHAL.cpp:34:6:void TouchGFXHAL::initialize()	24	static
-../TouchGFX/target/TouchGFXHAL.cpp:51:6:virtual void TouchGFXHAL::taskEntry()	16	static
-../TouchGFX/target/TouchGFXHAL.cpp:75:11:virtual uint16_t* TouchGFXHAL::getTFTFrameBuffer() const	16	static
-../TouchGFX/target/TouchGFXHAL.cpp:90:6:virtual void TouchGFXHAL::setTFTFrameBuffer(uint16_t*)	16	static
-../TouchGFX/target/TouchGFXHAL.cpp:107:6:virtual void TouchGFXHAL::flushFrameBuffer(const touchgfx::Rect&)	16	static
-../TouchGFX/target/TouchGFXHAL.cpp:128:6:virtual bool TouchGFXHAL::blockCopy(void*, const void*, uint32_t)	24	static
-../TouchGFX/target/TouchGFXHAL.cpp:137:6:virtual void TouchGFXHAL::configureInterrupts()	16	static
-../TouchGFX/target/TouchGFXHAL.cpp:150:6:virtual void TouchGFXHAL::enableInterrupts()	16	static
-../TouchGFX/target/TouchGFXHAL.cpp:163:6:virtual void TouchGFXHAL::disableInterrupts()	16	static
-../TouchGFX/target/TouchGFXHAL.cpp:177:6:virtual void TouchGFXHAL::enableLCDControllerInterrupt()	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/target/TouchGFXHAL.cpp:34:6:void TouchGFXHAL::initialize()	24	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/target/TouchGFXHAL.cpp:51:6:virtual void TouchGFXHAL::taskEntry()	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/target/TouchGFXHAL.cpp:75:11:virtual uint16_t* TouchGFXHAL::getTFTFrameBuffer() const	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/target/TouchGFXHAL.cpp:90:6:virtual void TouchGFXHAL::setTFTFrameBuffer(uint16_t*)	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/target/TouchGFXHAL.cpp:107:6:virtual void TouchGFXHAL::flushFrameBuffer(const touchgfx::Rect&)	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/target/TouchGFXHAL.cpp:128:6:virtual bool TouchGFXHAL::blockCopy(void*, const void*, uint32_t)	24	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/target/TouchGFXHAL.cpp:137:6:virtual void TouchGFXHAL::configureInterrupts()	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/target/TouchGFXHAL.cpp:150:6:virtual void TouchGFXHAL::enableInterrupts()	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/target/TouchGFXHAL.cpp:163:6:virtual void TouchGFXHAL::disableInterrupts()	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/target/TouchGFXHAL.cpp:177:6:virtual void TouchGFXHAL::enableLCDControllerInterrupt()	16	static
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\touchgfx\target\touchgfxhal.hpp:31:7:TouchGFXHAL::~TouchGFXHAL()	16	static
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\touchgfx\target\touchgfxhal.hpp:31:7:virtual TouchGFXHAL::~TouchGFXHAL()	16	static
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\touchgfx\target\cortexmmcuinstrumentation.hpp:20:7:touchgfx::CortexMMCUInstrumentation::~CortexMMCUInstrumentation()	16	static
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\touchgfx\target\cortexmmcuinstrumentation.hpp:20:7:virtual touchgfx::CortexMMCUInstrumentation::~CortexMMCUInstrumentation()	16	static
-../TouchGFX/target/TouchGFXHAL.cpp:204:1:void __static_initialization_and_destruction_0(int, int)	16	static
-../TouchGFX/target/TouchGFXHAL.cpp:204:1:cpp)	8	static
-../TouchGFX/target/TouchGFXHAL.cpp:204:1:cpp)	8	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/target/TouchGFXHAL.cpp:204:1:void __static_initialization_and_destruction_0(int, int)	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/target/TouchGFXHAL.cpp:204:1:cpp)	8	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/target/TouchGFXHAL.cpp:204:1:cpp)	8	static

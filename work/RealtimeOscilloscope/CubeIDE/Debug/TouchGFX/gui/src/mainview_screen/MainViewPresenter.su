@@ -13,10 +13,10 @@ c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeosci
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\touchgfx\gui\include\gui\model\modellistener.hpp:21:18:virtual void ModelListener::notifyDrawGraph(uint16_t*, uint16_t, float)	24	static
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\touchgfx\gui\include\gui\mainview_screen\mainviewpresenter.hpp:28:13:MainViewPresenter::~MainViewPresenter()	16	static
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\touchgfx\gui\include\gui\mainview_screen\mainviewpresenter.hpp:28:13:virtual MainViewPresenter::~MainViewPresenter()	16	static
-../TouchGFX/gui/src/mainview_screen/MainViewPresenter.cpp:4:1:MainViewPresenter::MainViewPresenter(MainViewView&)	16	static
-../TouchGFX/gui/src/mainview_screen/MainViewPresenter.cpp:10:6:virtual void MainViewPresenter::activate()	16	static
-../TouchGFX/gui/src/mainview_screen/MainViewPresenter.cpp:15:6:virtual void MainViewPresenter::deactivate()	16	static
-../TouchGFX/gui/src/mainview_screen/MainViewPresenter.cpp:20:6:virtual void MainViewPresenter::notifyModeChanged(std::string)	48	static
-../TouchGFX/gui/src/mainview_screen/MainViewPresenter.cpp:24:6:virtual void MainViewPresenter::notifyFreqChanged(std::string)	48	static
-../TouchGFX/gui/src/mainview_screen/MainViewPresenter.cpp:28:6:virtual void MainViewPresenter::notifyDivTimChanged(std::string)	48	static
-../TouchGFX/gui/src/mainview_screen/MainViewPresenter.cpp:32:6:virtual void MainViewPresenter::notifyDrawGraph(uint16_t*, uint16_t, float)	24	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/gui/src/mainview_screen/MainViewPresenter.cpp:4:1:MainViewPresenter::MainViewPresenter(MainViewView&)	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/gui/src/mainview_screen/MainViewPresenter.cpp:10:6:virtual void MainViewPresenter::activate()	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/gui/src/mainview_screen/MainViewPresenter.cpp:15:6:virtual void MainViewPresenter::deactivate()	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/gui/src/mainview_screen/MainViewPresenter.cpp:20:6:virtual void MainViewPresenter::notifyModeChanged(std::string)	48	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/gui/src/mainview_screen/MainViewPresenter.cpp:24:6:virtual void MainViewPresenter::notifyFreqChanged(std::string)	48	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/gui/src/mainview_screen/MainViewPresenter.cpp:28:6:virtual void MainViewPresenter::notifyDivTimChanged(std::string)	48	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/gui/src/mainview_screen/MainViewPresenter.cpp:32:6:virtual void MainViewPresenter::notifyDrawGraph(uint16_t*, uint16_t, float)	24	static
