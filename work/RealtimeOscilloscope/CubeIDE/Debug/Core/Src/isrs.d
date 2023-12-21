@@ -61,7 +61,18 @@ Core/Src/isrs.o: ../Core/Src/isrs.cpp \
  ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_uart.h \
  ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_uart_ex.h \
  ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_hcd.h \
- ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_ll_usb.h
+ ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_ll_usb.h \
+ c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\app\factory.h \
+ c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\app\oscilloscopecontroller.h \
+ c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\app\interface/guiobserver.h \
+ c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\app\gui.h \
+ c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\config\touchgfx-config.h \
+ c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\app\touchgfxtask.h \
+ c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\mdw\ext-freqgen\frequencygenerator.h \
+ c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\platform\f7-disco-gcc\ext-26pin\ext_26pin.h \
+ c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\app\freqgencontroller.h \
+ c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\config\ext-freqgen-config.h \
+ c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\platform\f7-disco-gcc\board\interface\buttonscontrollercallbackprovider.h
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\platform\f7-disco-gcc\board\buttonscontroller.h:
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\config\buttonscontroller-config.h:
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\platform\f7-disco-gcc\board\interface/buttonirq.h:
@@ -126,3 +137,14 @@ c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeosci
 ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_uart_ex.h:
 ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_hcd.h:
 ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_ll_usb.h:
+c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\app\factory.h:
+c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\app\oscilloscopecontroller.h:
+c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\app\interface/guiobserver.h:
+c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\app\gui.h:
+c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\config\touchgfx-config.h:
+c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\app\touchgfxtask.h:
+c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\mdw\ext-freqgen\frequencygenerator.h:
+c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\platform\f7-disco-gcc\ext-26pin\ext_26pin.h:
+c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\app\freqgencontroller.h:
+c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\config\ext-freqgen-config.h:
+c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\platform\f7-disco-gcc\board\interface\buttonscontrollercallbackprovider.h:

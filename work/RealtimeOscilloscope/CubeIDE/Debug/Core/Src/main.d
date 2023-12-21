@@ -47,7 +47,8 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
  c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\config\xf-config.h \
  c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\config\xf-port-config.h \
  c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\xf\port\default-idf\eventqueue-default.h \
- c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\xf\port\port-functions.h
+ c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\xf\port\port-functions.h \
+ c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\app\factory.h
 ../Core/Inc/main.h:
 ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal.h:
 ../Core/Inc/stm32f7xx_hal_conf.h:
@@ -98,3 +99,4 @@ c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeosci
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\config\xf-port-config.h:
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\xf\port\default-idf\eventqueue-default.h:
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\xf\port\port-functions.h:
+c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\app\factory.h:

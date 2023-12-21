@@ -18,6 +18,8 @@
 #include "board/buttonscontroller.h"
 using external::FrequencyGenerator;
 
+#define ADC_VALUES_BUFFER_SIZE 8000
+
 /**
  * @brief Factory creating all objects/components and relations between them.
  */

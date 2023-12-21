@@ -13,6 +13,6 @@ extern "C" UART_HandleTypeDef huart1;           // Defined in main.c
 #define TRACE_UART_USE_TX_DMA                   false
 #define TRACE_UART_CONSTRUCTOR_PARAMETERS       TRACE_UART_NUMBER, &TRACE_UART_HANDLE, TRACE_UART_USE_TX_DMA
 
-#define TRACE_ADD_CRLF_SEQU                     0
+#define TRACE_ADD_CRLF_SEQU                     1
 
 #endif // TRACE_CONFIG_H
