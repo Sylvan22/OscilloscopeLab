@@ -110,17 +110,16 @@ void Controller::onCheckBoxTriggerCheckState(bool checked)
 
 void Controller::doShowAnalogSignal()
 {
-	static float factors[7] = {0.05,0.05,0.1,0.2,0.5,1,1};
-	// WARNING:: screen largeur is 460px!!! and not 640;
-	// TODO: Call gui().drawGraphPoints() with the appropriate data.
-
+	// WARNING:: screen width is 460px!!! and not 640;
 	// total div: 8 = 460px
 	// 1 div = 57,5px
-	// fsample = 100kHz, nsamples = 8000 => 100 samples/ms
-
+	// fsample = 100kHz = 100 samples/ms
+	//nsamples = 8000 = 80ms
 	// 10 ms / div = ?samples/div = ?samples tot = ?scale factor
-	this->_tdivValue;
-	gui().drawGraphPoints(_adcValuesBuffer, _adcValuesBufferSize, factors[this->_tdivValue]);
+
+	static int factors[7] = {1,1,2,4,10,20,20};
+	float scale = 0.9*factors[this->_tdivValue];
+	gui().drawGraphPoints(_adcValuesBuffer, _adcValuesBufferSize, scale);
 }
 
 void Controller::doButtonTimePlusPressed()

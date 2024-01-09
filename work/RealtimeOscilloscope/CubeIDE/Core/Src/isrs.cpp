@@ -25,7 +25,7 @@ extern "C" void HAL_TIM_OC_DelayElapsedCallback(TIM_HandleTypeDef *htim){
 }
 
 extern "C" void HAL_ADC_ConvCpltCallback(ADC_HandleTypeDef* hadc){
-	HAL_GPIO_TogglePin(Timer1Toggle_GPIO_Port, Timer1Toggle_Pin);
+	//HAL_GPIO_TogglePin(Timer1Toggle_GPIO_Port, Timer1Toggle_Pin);
 	ADC_Buffer[ADCBufferIndex] =HAL_ADC_GetValue(hadc);
 	ADCBufferIndex++;
 	if(ADCBufferIndex==ADC_VALUES_BUFFER_SIZE){
