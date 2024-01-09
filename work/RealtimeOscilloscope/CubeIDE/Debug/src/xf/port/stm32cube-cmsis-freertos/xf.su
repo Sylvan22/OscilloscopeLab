@@ -1,0 +1,6 @@
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/xf/port/stm32cube-cmsis-freertos/xf.cpp:18:6:void XF_initialize(int)	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/xf/port/stm32cube-cmsis-freertos/xf.cpp:23:6:void XF_exec()	8	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/xf/port/stm32cube-cmsis-freertos/xf.cpp:28:6:void XF_execOnce()	8	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/xf/port/stm32cube-cmsis-freertos/xf.cpp:33:6:static void XF::initialize(int, int, char**)	24	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/xf/port/stm32cube-cmsis-freertos/xf.cpp:46:5:static int XF::exec()	8	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/xf/port/stm32cube-cmsis-freertos/xf.cpp:67:5:static int XF::execOnce()	8	static

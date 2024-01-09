@@ -49,10 +49,19 @@ src/app/factory.o: \
  c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\xf\include\xf\xf.h \
  c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\config\xf-config.h \
  c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\config\xf-port-config.h \
- c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\xf\port\default-idf\eventqueue-default.h \
+ c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\xf\port\stm32cube-cmsis-freertos\eventqueue.h \
  c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\xf\include\xf\interface\eventqueue.h \
- c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\xf\port\default-idf\mutex-default.h \
- c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\xf\include\xf\interface\mutex.h \
+ ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os.h \
+ ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h \
+ ../Core/Inc/FreeRTOSConfig.h \
+ ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h \
+ ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h \
+ ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h \
+ ../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM7/r0p1/portmacro.h \
+ ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h \
+ ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h \
+ ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h \
+ ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.h \
  c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\xf\include\xf\interface\dispatcher.h \
  c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\xf\include\xf\event.h \
  C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/factory.h \
@@ -68,7 +77,6 @@ src/app/factory.o: \
  C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/interface/guiobserver.h \
  C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/gui.h \
  c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\config\touchgfx-config.h \
- C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/touchgfxtask.h \
  c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\mdw\ext-freqgen\frequencygenerator.h \
  c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\platform\f7-disco-gcc\ext-26pin\ext_26pin.h \
  c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\app\freqgencontroller.h \
@@ -128,10 +136,19 @@ c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeosci
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\xf\include\xf\xf.h:
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\config\xf-config.h:
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\config\xf-port-config.h:
-c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\xf\port\default-idf\eventqueue-default.h:
+c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\xf\port\stm32cube-cmsis-freertos\eventqueue.h:
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\xf\include\xf\interface\eventqueue.h:
-c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\xf\port\default-idf\mutex-default.h:
-c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\xf\include\xf\interface\mutex.h:
+../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os.h:
+../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h:
+../Core/Inc/FreeRTOSConfig.h:
+../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h:
+../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h:
+../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h:
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM7/r0p1/portmacro.h:
+../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h:
+../Middlewares/Third_Party/FreeRTOS/Source/include/task.h:
+../Middlewares/Third_Party/FreeRTOS/Source/include/list.h:
+../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.h:
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\xf\include\xf\interface\dispatcher.h:
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\xf\include\xf\event.h:
 C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/factory.h:
@@ -147,7 +164,6 @@ c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeosci
 C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/interface/guiobserver.h:
 C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/gui.h:
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\config\touchgfx-config.h:
-C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/touchgfxtask.h:
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\mdw\ext-freqgen\frequencygenerator.h:
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\platform\f7-disco-gcc\ext-26pin\ext_26pin.h:
 c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\app\freqgencontroller.h:
