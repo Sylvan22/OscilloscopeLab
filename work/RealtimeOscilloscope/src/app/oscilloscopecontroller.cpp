@@ -111,14 +111,13 @@ void Controller::onCheckBoxTriggerCheckState(bool checked)
 void Controller::doShowAnalogSignal()
 {
 	// WARNING:: screen width is 460px
-	// total div: 8 = 460px
-	// 1 div = 57,5px
+	// total div: 8 => 460px
 	// fsample = 100kHz = 100 samples/ms
-	//nsamples = 8000 = 80ms
+	//nsamples = 8000 => 80ms
 	// => 10ms/div => 8 div => 80ms => 8000 samples => scale = 8000/460
 
 
-	// nsamples = t * 8000/10m
+	// nsamples = tdiv * 8000/10m
 	// scale = nSamples/460
 	static float scales[7] = {0.9,0.9,1.8,3.5,8.7,17.4,17.4};// scales for 100kHz sampling period, calculated with above formula
 
