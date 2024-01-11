@@ -84,6 +84,7 @@ protected:
 	} EventId;
 
 	TDivValue _tdivValue;
+	bool trigger;// enable us toknow if we should trigger
 
 	static const TDivOption _tdivOptions[];
 };

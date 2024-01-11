@@ -24,6 +24,7 @@ Controller::Controller() :
 {
     assert(!_pInstance);    // Only one instance of this class allowed!
     _pInstance = this;
+    trigger = false;
 }
 
 //static
@@ -105,6 +106,8 @@ void Controller::onCheckBoxTriggerCheckState(bool checked)
 {
     Trace::out("Trigger checkbox: %s", (checked) ? "checked" : "unchecked");
 
+    trigger = checked;
+
     GEN(evCheckBoxTrigger(checked, CHECK_BOX_TRIGGER_ID));
 }
 
@@ -121,9 +124,32 @@ void Controller::doShowAnalogSignal()
 	// nsamples = t * 8000/10m
 	// scale = nSamples/460
 	static float scales[7] = {0.9,0.9,1.8,3.5,8.7,17.4,17.4};// scales for 100kHz sampling period, calculated with above formula
-
 	float scale = scales[this->_tdivValue];
+
+	if(!trigger){
 	gui().drawGraphPoints(_adcValuesBuffer, _adcValuesBufferSize, scale);
+	}
+	else
+	{
+		//TODO: create a trigger alghoritm
+		// set a trigger value => value to start display data
+		// start to display on the firts trigger value found, on a rising or falling edge
+		// then call the drawGraphPoints method by starting on offset and give the correct size
+		int idx = 0;
+		int triggerPoint = 500;
+		int tolerance = 50;
+		while(true){
+			if(_adcValuesBuffer[idx] > (triggerPoint-tolerance) && _adcValuesBuffer[idx] < (triggerPoint+tolerance)){
+				break;
+			}
+
+			idx++;
+			if(idx > _adcValuesBufferSize){//if we reached the limit, we quit the loop
+				break;
+			}
+		}
+		gui().drawGraphPoints(&_adcValuesBuffer[idx], _adcValuesBufferSize-idx, scale);
+	}
 }
 
 void Controller::doButtonTimePlusPressed()
