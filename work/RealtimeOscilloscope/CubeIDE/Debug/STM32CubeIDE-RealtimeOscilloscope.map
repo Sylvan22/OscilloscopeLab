@@ -2476,7 +2476,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x7c ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dma_ex.o
  .debug_macro   0x0000000000000000      0x14d ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dma_ex.o
  .debug_line    0x0000000000000000     0x1470 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dma_ex.o
- .debug_str     0x0000000000000000    0xf608d ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dma_ex.o
+ .debug_str     0x0000000000000000    0xf608c ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dma_ex.o
  .comment       0x0000000000000000       0x51 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dma_ex.o
  .debug_frame   0x0000000000000000       0xac ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dma_ex.o
  .ARM.attributes
@@ -2604,7 +2604,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x7c ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dsi.o
  .debug_macro   0x0000000000000000      0x14d ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dsi.o
  .debug_line    0x0000000000000000      0x813 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dsi.o
- .debug_str     0x0000000000000000    0xf5cf4 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dsi.o
+ .debug_str     0x0000000000000000    0xf5cf3 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dsi.o
  .comment       0x0000000000000000       0x51 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dsi.o
  .ARM.attributes
                 0x0000000000000000       0x34 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dsi.o
@@ -2750,7 +2750,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x7c ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_exti.o
  .debug_macro   0x0000000000000000      0x14d ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_exti.o
  .debug_line    0x0000000000000000      0xaf1 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_exti.o
- .debug_str     0x0000000000000000    0xf5f25 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_exti.o
+ .debug_str     0x0000000000000000    0xf5f24 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_exti.o
  .comment       0x0000000000000000       0x51 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_exti.o
  .debug_frame   0x0000000000000000      0x174 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_exti.o
  .ARM.attributes
@@ -2914,7 +2914,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x7c ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash.o
  .debug_macro   0x0000000000000000      0x14d ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash.o
  .debug_line    0x0000000000000000      0xbd8 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash.o
- .debug_str     0x0000000000000000    0xf60c2 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash.o
+ .debug_str     0x0000000000000000    0xf60c1 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash.o
  .comment       0x0000000000000000       0x51 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash.o
  .debug_frame   0x0000000000000000      0x274 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash.o
  .ARM.attributes
@@ -3077,7 +3077,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x7c ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash_ex.o
  .debug_macro   0x0000000000000000      0x14d ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash_ex.o
  .debug_line    0x0000000000000000      0xc18 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash_ex.o
- .debug_str     0x0000000000000000    0xf615f ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash_ex.o
+ .debug_str     0x0000000000000000    0xf615e ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash_ex.o
  .comment       0x0000000000000000       0x51 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash_ex.o
  .debug_frame   0x0000000000000000      0x284 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash_ex.o
  .ARM.attributes
@@ -4024,7 +4024,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x7c ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_ltdc_ex.o
  .debug_macro   0x0000000000000000      0x14d ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_ltdc_ex.o
  .debug_line    0x0000000000000000      0x817 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_ltdc_ex.o
- .debug_str     0x0000000000000000    0xf5cf8 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_ltdc_ex.o
+ .debug_str     0x0000000000000000    0xf5cf7 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_ltdc_ex.o
  .comment       0x0000000000000000       0x51 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_ltdc_ex.o
  .ARM.attributes
                 0x0000000000000000       0x34 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_ltdc_ex.o
@@ -5086,7 +5086,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x7c ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_spi_ex.o
  .debug_macro   0x0000000000000000      0x14d ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_spi_ex.o
  .debug_line    0x0000000000000000      0x859 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_spi_ex.o
- .debug_str     0x0000000000000000    0xf61e6 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_spi_ex.o
+ .debug_str     0x0000000000000000    0xf61e5 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_spi_ex.o
  .comment       0x0000000000000000       0x51 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_spi_ex.o
  .debug_frame   0x0000000000000000       0x38 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_spi_ex.o
  .ARM.attributes
@@ -5952,7 +5952,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x7c ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_uart_ex.o
  .debug_macro   0x0000000000000000      0x14d ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_uart_ex.o
  .debug_line    0x0000000000000000      0xb19 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_uart_ex.o
- .debug_str     0x0000000000000000    0xf6370 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_uart_ex.o
+ .debug_str     0x0000000000000000    0xf636f ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_uart_ex.o
  .comment       0x0000000000000000       0x51 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_uart_ex.o
  .debug_frame   0x0000000000000000       0xc8 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_uart_ex.o
  .ARM.attributes
@@ -15202,7 +15202,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x241 ./src/mdw/trace/examples/trace-example01.o
  .debug_macro   0x0000000000000000       0x17 ./src/mdw/trace/examples/trace-example01.o
  .debug_line    0x0000000000000000     0x15a8 ./src/mdw/trace/examples/trace-example01.o
- .debug_str     0x0000000000000000    0xfe778 ./src/mdw/trace/examples/trace-example01.o
+ .debug_str     0x0000000000000000    0xfe777 ./src/mdw/trace/examples/trace-example01.o
  .comment       0x0000000000000000       0x51 ./src/mdw/trace/examples/trace-example01.o
  .debug_frame   0x0000000000000000       0x38 ./src/mdw/trace/examples/trace-example01.o
  .ARM.attributes
@@ -15826,7 +15826,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x8b0 ./src/platform/f7-disco-gcc/board/ledcontroller.o
  .debug_macro   0x0000000000000000       0x10 ./src/platform/f7-disco-gcc/board/ledcontroller.o
  .debug_line    0x0000000000000000     0x18db ./src/platform/f7-disco-gcc/board/ledcontroller.o
- .debug_str     0x0000000000000000   0x109a2b ./src/platform/f7-disco-gcc/board/ledcontroller.o
+ .debug_str     0x0000000000000000   0x109a2a ./src/platform/f7-disco-gcc/board/ledcontroller.o
  .comment       0x0000000000000000       0x51 ./src/platform/f7-disco-gcc/board/ledcontroller.o
  .debug_frame   0x0000000000000000      0x1a8 ./src/platform/f7-disco-gcc/board/ledcontroller.o
  .ARM.attributes
@@ -30281,213 +30281,213 @@ LOAD c:/st/stm32cubeide_1.9.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
  .debug_line    0x0000000000074bbd      0xff4 ./src/xf/port/default-idf/mutex-default.o
  .debug_line    0x0000000000075bb1     0x1a60 ./src/xf/port/idf-stm32cube/port-functions.o
 
-.debug_str      0x0000000000000000   0x1394bb
+.debug_str      0x0000000000000000   0x1394ba
  .debug_str     0x0000000000000000     0x516d ./Components/ft5336/ft5336.o
                                        0x5341 (size before relaxing)
- .debug_str     0x000000000000516d   0x101dd6 ./Core/Src/isrs.o
-                                     0x10656d (size before relaxing)
- .debug_str     0x0000000000106f43     0x2039 ./Core/Src/main.o
-                                      0xfa922 (size before relaxing)
- .debug_str     0x0000000000108f7c      0x1fd ./Core/Src/stm32f7xx_hal_msp.o
-                                      0xf9c9b (size before relaxing)
- .debug_str     0x0000000000109179       0xda ./Core/Src/stm32f7xx_hal_timebase_tim.o
-                                      0xf6aa2 (size before relaxing)
- .debug_str     0x0000000000109253      0x533 ./Core/Src/stm32f7xx_it.o
-                                      0xf8d59 (size before relaxing)
- .debug_str     0x0000000000109786     0x1315 ./Core/Src/syscalls.o
+ .debug_str     0x000000000000516d   0x101dd5 ./Core/Src/isrs.o
+                                     0x10656c (size before relaxing)
+ .debug_str     0x0000000000106f42     0x2039 ./Core/Src/main.o
+                                      0xfa921 (size before relaxing)
+ .debug_str     0x0000000000108f7b      0x1fd ./Core/Src/stm32f7xx_hal_msp.o
+                                      0xf9c9a (size before relaxing)
+ .debug_str     0x0000000000109178       0xda ./Core/Src/stm32f7xx_hal_timebase_tim.o
+                                      0xf6aa1 (size before relaxing)
+ .debug_str     0x0000000000109252      0x533 ./Core/Src/stm32f7xx_it.o
+                                      0xf8d58 (size before relaxing)
+ .debug_str     0x0000000000109785     0x1315 ./Core/Src/syscalls.o
                                        0x8aa1 (size before relaxing)
- .debug_str     0x000000000010aa9b       0x6b ./Core/Src/sysmem.o
+ .debug_str     0x000000000010aa9a       0x6b ./Core/Src/sysmem.o
                                        0x5ddd (size before relaxing)
- .debug_str     0x000000000010ab06       0x87 ./Core/Src/system_stm32f7xx.o
-                                      0xf5f9f (size before relaxing)
- .debug_str     0x000000000010ab8d       0x36 ./Core/Startup/startup_stm32f746nghx.o
+ .debug_str     0x000000000010ab05       0x87 ./Core/Src/system_stm32f7xx.o
+                                      0xf5f9e (size before relaxing)
+ .debug_str     0x000000000010ab8c       0x36 ./Core/Startup/startup_stm32f746nghx.o
                                          0x9d (size before relaxing)
- .debug_str     0x000000000010abc3      0x3a4 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal.o
-                                      0xf6908 (size before relaxing)
- .debug_str     0x000000000010af67      0x270 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_adc.o
-                                      0xf6498 (size before relaxing)
- .debug_str     0x000000000010b1d7      0x2df ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_adc_ex.o
-                                      0xf64ec (size before relaxing)
- .debug_str     0x000000000010b4b6      0x2f3 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_cortex.o
-                                      0xf68f3 (size before relaxing)
- .debug_str     0x000000000010b7a9       0xbe ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_crc.o
-                                      0xf5fda (size before relaxing)
- .debug_str     0x000000000010b867       0x69 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_crc_ex.o
-                                      0xf5f94 (size before relaxing)
- .debug_str     0x000000000010b8d0      0x2f1 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dma.o
-                                      0xf62de (size before relaxing)
- .debug_str     0x000000000010bbc1      0x359 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dma2d.o
-                                      0xf64b2 (size before relaxing)
- .debug_str     0x000000000010bf1a       0xcc ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_gpio.o
-                                      0xf605d (size before relaxing)
- .debug_str     0x000000000010bfe6      0x532 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_hcd.o
-                                      0xf66ce (size before relaxing)
- .debug_str     0x000000000010c518      0xd6e ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_i2c.o
-                                      0xf7176 (size before relaxing)
- .debug_str     0x000000000010d286       0x89 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_i2c_ex.o
-                                      0xf6445 (size before relaxing)
- .debug_str     0x000000000010d30f      0x429 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_ltdc.o
-                                      0xf64f6 (size before relaxing)
- .debug_str     0x000000000010d738      0x2ac ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_pwr.o
-                                      0xf6240 (size before relaxing)
- .debug_str     0x000000000010d9e4      0x1bd ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_pwr_ex.o
-                                      0xf620e (size before relaxing)
- .debug_str     0x000000000010dba1      0x206 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_rcc.o
-                                      0xf6301 (size before relaxing)
- .debug_str     0x000000000010dda7      0x13d ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_rcc_ex.o
-                                      0xf6239 (size before relaxing)
- .debug_str     0x000000000010dee4      0x33c ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_sdram.o
-                                      0xf65ec (size before relaxing)
- .debug_str     0x000000000010e220      0x58c ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_spi.o
-                                      0xf67df (size before relaxing)
- .debug_str     0x000000000010e7ac      0xd24 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_tim.o
-                                      0xf72b2 (size before relaxing)
- .debug_str     0x000000000010f4d0      0x402 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_tim_ex.o
-                                      0xf6b08 (size before relaxing)
- .debug_str     0x000000000010f8d2      0x832 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_uart.o
-                                      0xf6c26 (size before relaxing)
- .debug_str     0x0000000000110104      0x75f ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_fmc.o
-                                      0xf67b0 (size before relaxing)
- .debug_str     0x0000000000110863      0x4f6 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_usb.o
-                                      0xf67fb (size before relaxing)
- .debug_str     0x0000000000110d59     0x2664 ./Middlewares/ST/STM32_USB_Host_Library/Class/CDC/Src/usbh_cdc.o
-                                      0xfe260 (size before relaxing)
- .debug_str     0x00000000001133bd      0x316 ./Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.o
-                                      0xfd771 (size before relaxing)
- .debug_str     0x00000000001136d3      0x1db ./Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.o
-                                      0xfd6e6 (size before relaxing)
- .debug_str     0x00000000001138ae       0xb2 ./Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.o
-                                      0xfd51a (size before relaxing)
- .debug_str     0x0000000000113960       0x80 ./Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.o
-                                      0xfd4b0 (size before relaxing)
- .debug_str     0x00000000001139e0     0x1181 ./TouchGFX/generated/fonts/src/ApplicationFontProvider.o
+ .debug_str     0x000000000010abc2      0x3a4 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal.o
+                                      0xf6907 (size before relaxing)
+ .debug_str     0x000000000010af66      0x270 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_adc.o
+                                      0xf6497 (size before relaxing)
+ .debug_str     0x000000000010b1d6      0x2df ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_adc_ex.o
+                                      0xf64eb (size before relaxing)
+ .debug_str     0x000000000010b4b5      0x2f3 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_cortex.o
+                                      0xf68f2 (size before relaxing)
+ .debug_str     0x000000000010b7a8       0xbe ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_crc.o
+                                      0xf5fd9 (size before relaxing)
+ .debug_str     0x000000000010b866       0x69 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_crc_ex.o
+                                      0xf5f93 (size before relaxing)
+ .debug_str     0x000000000010b8cf      0x2f1 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dma.o
+                                      0xf62dd (size before relaxing)
+ .debug_str     0x000000000010bbc0      0x359 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dma2d.o
+                                      0xf64b1 (size before relaxing)
+ .debug_str     0x000000000010bf19       0xcc ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_gpio.o
+                                      0xf605c (size before relaxing)
+ .debug_str     0x000000000010bfe5      0x532 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_hcd.o
+                                      0xf66cd (size before relaxing)
+ .debug_str     0x000000000010c517      0xd6e ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_i2c.o
+                                      0xf7175 (size before relaxing)
+ .debug_str     0x000000000010d285       0x89 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_i2c_ex.o
+                                      0xf6444 (size before relaxing)
+ .debug_str     0x000000000010d30e      0x429 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_ltdc.o
+                                      0xf64f5 (size before relaxing)
+ .debug_str     0x000000000010d737      0x2ac ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_pwr.o
+                                      0xf623f (size before relaxing)
+ .debug_str     0x000000000010d9e3      0x1bd ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_pwr_ex.o
+                                      0xf620d (size before relaxing)
+ .debug_str     0x000000000010dba0      0x206 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_rcc.o
+                                      0xf6300 (size before relaxing)
+ .debug_str     0x000000000010dda6      0x13d ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_rcc_ex.o
+                                      0xf6238 (size before relaxing)
+ .debug_str     0x000000000010dee3      0x33c ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_sdram.o
+                                      0xf65eb (size before relaxing)
+ .debug_str     0x000000000010e21f      0x58c ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_spi.o
+                                      0xf67de (size before relaxing)
+ .debug_str     0x000000000010e7ab      0xd24 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_tim.o
+                                      0xf72b1 (size before relaxing)
+ .debug_str     0x000000000010f4cf      0x402 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_tim_ex.o
+                                      0xf6b07 (size before relaxing)
+ .debug_str     0x000000000010f8d1      0x832 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_uart.o
+                                      0xf6c25 (size before relaxing)
+ .debug_str     0x0000000000110103      0x75f ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_fmc.o
+                                      0xf67af (size before relaxing)
+ .debug_str     0x0000000000110862      0x4f6 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_usb.o
+                                      0xf67fa (size before relaxing)
+ .debug_str     0x0000000000110d58     0x2664 ./Middlewares/ST/STM32_USB_Host_Library/Class/CDC/Src/usbh_cdc.o
+                                      0xfe25f (size before relaxing)
+ .debug_str     0x00000000001133bc      0x316 ./Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.o
+                                      0xfd770 (size before relaxing)
+ .debug_str     0x00000000001136d2      0x1db ./Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.o
+                                      0xfd6e5 (size before relaxing)
+ .debug_str     0x00000000001138ad       0xb2 ./Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.o
+                                      0xfd519 (size before relaxing)
+ .debug_str     0x000000000011395f       0x80 ./Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.o
+                                      0xfd4af (size before relaxing)
+ .debug_str     0x00000000001139df     0x1181 ./TouchGFX/generated/fonts/src/ApplicationFontProvider.o
                                        0x6e84 (size before relaxing)
- .debug_str     0x0000000000114b61     0x1213 ./TouchGFX/generated/fonts/src/CachedFont.o
+ .debug_str     0x0000000000114b60     0x1213 ./TouchGFX/generated/fonts/src/CachedFont.o
                                        0x7e36 (size before relaxing)
- .debug_str     0x0000000000115d74     0x164d ./TouchGFX/generated/fonts/src/FontCache.o
+ .debug_str     0x0000000000115d73     0x164d ./TouchGFX/generated/fonts/src/FontCache.o
                                        0xbea9 (size before relaxing)
- .debug_str     0x00000000001173c1       0xbd ./TouchGFX/generated/fonts/src/Font_verdana_10_4bpp_0.o
+ .debug_str     0x00000000001173c0       0xbd ./TouchGFX/generated/fonts/src/Font_verdana_10_4bpp_0.o
                                        0x4b8d (size before relaxing)
- .debug_str     0x000000000011747e       0xbd ./TouchGFX/generated/fonts/src/Font_verdana_20_4bpp_0.o
+ .debug_str     0x000000000011747d       0xbd ./TouchGFX/generated/fonts/src/Font_verdana_20_4bpp_0.o
                                        0x4b8d (size before relaxing)
- .debug_str     0x000000000011753b       0xbd ./TouchGFX/generated/fonts/src/Font_verdana_40_4bpp_0.o
+ .debug_str     0x000000000011753a       0xbd ./TouchGFX/generated/fonts/src/Font_verdana_40_4bpp_0.o
                                        0x4b8d (size before relaxing)
- .debug_str     0x00000000001175f8      0x233 ./TouchGFX/generated/fonts/src/GeneratedFont.o
+ .debug_str     0x00000000001175f7      0x233 ./TouchGFX/generated/fonts/src/GeneratedFont.o
                                        0x5c2d (size before relaxing)
- .debug_str     0x000000000011782b       0xbb ./TouchGFX/generated/fonts/src/Kerning_verdana_10_4bpp.o
+ .debug_str     0x000000000011782a       0xbb ./TouchGFX/generated/fonts/src/Kerning_verdana_10_4bpp.o
                                        0x52bb (size before relaxing)
- .debug_str     0x00000000001178e6       0xbb ./TouchGFX/generated/fonts/src/Kerning_verdana_20_4bpp.o
+ .debug_str     0x00000000001178e5       0xbb ./TouchGFX/generated/fonts/src/Kerning_verdana_20_4bpp.o
                                        0x52bb (size before relaxing)
- .debug_str     0x00000000001179a1       0xbb ./TouchGFX/generated/fonts/src/Kerning_verdana_40_4bpp.o
+ .debug_str     0x00000000001179a0       0xbb ./TouchGFX/generated/fonts/src/Kerning_verdana_40_4bpp.o
                                        0x52bb (size before relaxing)
- .debug_str     0x0000000000117a5c      0x189 ./TouchGFX/generated/fonts/src/Table_verdana_10_4bpp.o
+ .debug_str     0x0000000000117a5b      0x189 ./TouchGFX/generated/fonts/src/Table_verdana_10_4bpp.o
                                        0x57f4 (size before relaxing)
- .debug_str     0x0000000000117be5      0x106 ./TouchGFX/generated/fonts/src/Table_verdana_20_4bpp.o
+ .debug_str     0x0000000000117be4      0x106 ./TouchGFX/generated/fonts/src/Table_verdana_20_4bpp.o
                                        0x57f4 (size before relaxing)
- .debug_str     0x0000000000117ceb      0x106 ./TouchGFX/generated/fonts/src/Table_verdana_40_4bpp.o
+ .debug_str     0x0000000000117cea      0x106 ./TouchGFX/generated/fonts/src/Table_verdana_40_4bpp.o
                                        0x57f4 (size before relaxing)
- .debug_str     0x0000000000117df1     0x7ca4 ./TouchGFX/generated/gui_generated/src/common/FrontendApplicationBase.o
+ .debug_str     0x0000000000117df0     0x7ca4 ./TouchGFX/generated/gui_generated/src/common/FrontendApplicationBase.o
                                       0x16050 (size before relaxing)
- .debug_str     0x000000000011fa95     0x5bcc ./TouchGFX/generated/gui_generated/src/mainview_screen/MainViewViewBase.o
+ .debug_str     0x000000000011fa94     0x5bcc ./TouchGFX/generated/gui_generated/src/mainview_screen/MainViewViewBase.o
                                       0x1a226 (size before relaxing)
- .debug_str     0x0000000000125661      0x189 ./TouchGFX/generated/images/src/BitmapDatabase.o
+ .debug_str     0x0000000000125660      0x189 ./TouchGFX/generated/images/src/BitmapDatabase.o
                                        0x719c (size before relaxing)
- .debug_str     0x00000000001257ea       0xa4 ./TouchGFX/generated/images/src/image_red-led-circle-01.o
+ .debug_str     0x00000000001257e9       0xa4 ./TouchGFX/generated/images/src/image_red-led-circle-01.o
                                        0x3682 (size before relaxing)
- .debug_str     0x000000000012588e       0xa4 ./TouchGFX/generated/images/src/image_red-led-circle-02.o
+ .debug_str     0x000000000012588d       0xa4 ./TouchGFX/generated/images/src/image_red-led-circle-02.o
                                        0x3682 (size before relaxing)
- .debug_str     0x0000000000125932       0xbd ./TouchGFX/generated/images/src/__designer/image_Blue_Buttons_Square_icon_button.o
+ .debug_str     0x0000000000125931       0xbd ./TouchGFX/generated/images/src/__designer/image_Blue_Buttons_Square_icon_button.o
                                        0x36a9 (size before relaxing)
- .debug_str     0x00000000001259ef       0xc5 ./TouchGFX/generated/images/src/__designer/image_Blue_Buttons_Square_icon_button_pressed.o
+ .debug_str     0x00000000001259ee       0xc5 ./TouchGFX/generated/images/src/__designer/image_Blue_Buttons_Square_icon_button_pressed.o
                                        0x36b9 (size before relaxing)
- .debug_str     0x0000000000125ab4       0xa0 ./TouchGFX/generated/texts/src/LanguageGb.o
+ .debug_str     0x0000000000125ab3       0xa0 ./TouchGFX/generated/texts/src/LanguageGb.o
                                        0x4cc0 (size before relaxing)
- .debug_str     0x0000000000125b54      0x65b ./TouchGFX/generated/texts/src/Texts.o
+ .debug_str     0x0000000000125b53      0x65b ./TouchGFX/generated/texts/src/Texts.o
                                        0xb453 (size before relaxing)
- .debug_str     0x00000000001261af      0x1a0 ./TouchGFX/generated/texts/src/TypedTextDatabase.o
+ .debug_str     0x00000000001261ae      0x1a0 ./TouchGFX/generated/texts/src/TypedTextDatabase.o
                                        0x723b (size before relaxing)
- .debug_str     0x000000000012634f      0x106 ./TouchGFX/gui/src/common/FrontendApplication.o
+ .debug_str     0x000000000012634e      0x106 ./TouchGFX/gui/src/common/FrontendApplication.o
                                       0x13c35 (size before relaxing)
- .debug_str     0x0000000000126455      0xb26 ./TouchGFX/gui/src/mainview_screen/MainViewPresenter.o
+ .debug_str     0x0000000000126454      0xb26 ./TouchGFX/gui/src/mainview_screen/MainViewPresenter.o
                                       0x13365 (size before relaxing)
- .debug_str     0x0000000000126f7b      0x83b ./TouchGFX/gui/src/mainview_screen/MainViewView.o
+ .debug_str     0x0000000000126f7a      0x83b ./TouchGFX/gui/src/mainview_screen/MainViewView.o
                                       0x186ea (size before relaxing)
- .debug_str     0x00000000001277b6      0x149 ./TouchGFX/gui/src/model/Model.o
+ .debug_str     0x00000000001277b5      0x149 ./TouchGFX/gui/src/model/Model.o
                                       0x1635d (size before relaxing)
- .debug_str     0x00000000001278ff      0x47d ./TouchGFX/target/CortexMMCUInstrumentation.o
+ .debug_str     0x00000000001278fe      0x47d ./TouchGFX/target/CortexMMCUInstrumentation.o
                                        0x9030 (size before relaxing)
- .debug_str     0x0000000000127d7c      0x408 ./TouchGFX/target/STM32TouchController.o
-                                      0xfc885 (size before relaxing)
- .debug_str     0x0000000000128184      0x19d ./TouchGFX/target/TouchGFXGPIO.o
+ .debug_str     0x0000000000127d7b      0x408 ./TouchGFX/target/STM32TouchController.o
+                                      0xfc884 (size before relaxing)
+ .debug_str     0x0000000000128183      0x19d ./TouchGFX/target/TouchGFXGPIO.o
                                        0x32d6 (size before relaxing)
- .debug_str     0x0000000000128321     0x13d1 ./TouchGFX/target/TouchGFXHAL.o
-                                      0xfdb8c (size before relaxing)
- .debug_str     0x00000000001296f2       0xa4 ./TouchGFX/target/generated/OSWrappers.o
-                                      0xfadab (size before relaxing)
- .debug_str     0x0000000000129796      0xa4b ./TouchGFX/target/generated/STM32DMA.o
-                                      0xfcd0c (size before relaxing)
- .debug_str     0x000000000012a1e1      0xdea ./TouchGFX/target/generated/TouchGFXConfiguration.o
-                                     0x10973d (size before relaxing)
- .debug_str     0x000000000012afcb      0x237 ./TouchGFX/target/generated/TouchGFXGeneratedHAL.o
-                                     0x102f8b (size before relaxing)
- .debug_str     0x000000000012b202       0xa2 ./USB_HOST/App/usb_host.o
-                                      0xfdbbb (size before relaxing)
- .debug_str     0x000000000012b2a4       0x96 ./USB_HOST/Target/usbh_conf.o
-                                      0xfe4ac (size before relaxing)
- .debug_str     0x000000000012b33a       0x23 ./USB_HOST/Target/usbh_platform.o
-                                      0xf5dc8 (size before relaxing)
- .debug_str     0x000000000012b35d      0xb10 ./src/app/factory.o
-                                     0x10b8f2 (size before relaxing)
- .debug_str     0x000000000012be6d      0xc5e ./src/app/freqgencontroller.o
-                                     0x10bc94 (size before relaxing)
- .debug_str     0x000000000012cacb      0xbfb ./src/app/gui.o
-                                     0x10a567 (size before relaxing)
- .debug_str     0x000000000012d6c6      0x6ff ./src/app/oscilloscopecontroller.o
-                                     0x10badc (size before relaxing)
- .debug_str     0x000000000012ddc5       0xe5 ./src/app/touchgfxtask.o
+ .debug_str     0x0000000000128320     0x13d1 ./TouchGFX/target/TouchGFXHAL.o
+                                      0xfdb8b (size before relaxing)
+ .debug_str     0x00000000001296f1       0xa4 ./TouchGFX/target/generated/OSWrappers.o
+                                      0xfadaa (size before relaxing)
+ .debug_str     0x0000000000129795      0xa4b ./TouchGFX/target/generated/STM32DMA.o
+                                      0xfcd0b (size before relaxing)
+ .debug_str     0x000000000012a1e0      0xdea ./TouchGFX/target/generated/TouchGFXConfiguration.o
+                                     0x10973c (size before relaxing)
+ .debug_str     0x000000000012afca      0x237 ./TouchGFX/target/generated/TouchGFXGeneratedHAL.o
+                                     0x102f8a (size before relaxing)
+ .debug_str     0x000000000012b201       0xa2 ./USB_HOST/App/usb_host.o
+                                      0xfdbba (size before relaxing)
+ .debug_str     0x000000000012b2a3       0x96 ./USB_HOST/Target/usbh_conf.o
+                                      0xfe4ab (size before relaxing)
+ .debug_str     0x000000000012b339       0x23 ./USB_HOST/Target/usbh_platform.o
+                                      0xf5dc7 (size before relaxing)
+ .debug_str     0x000000000012b35c      0xb10 ./src/app/factory.o
+                                     0x10b8f1 (size before relaxing)
+ .debug_str     0x000000000012be6c      0xc5e ./src/app/freqgencontroller.o
+                                     0x10bc93 (size before relaxing)
+ .debug_str     0x000000000012caca      0xbfb ./src/app/gui.o
+                                     0x10a566 (size before relaxing)
+ .debug_str     0x000000000012d6c5      0x6ff ./src/app/oscilloscopecontroller.o
+                                     0x10badb (size before relaxing)
+ .debug_str     0x000000000012ddc4       0xe5 ./src/app/touchgfxtask.o
                                        0xe826 (size before relaxing)
- .debug_str     0x000000000012deaa      0x2a3 ./src/event/evbuttonirq.o
+ .debug_str     0x000000000012dea9      0x2a3 ./src/event/evbuttonirq.o
                                        0x7bf5 (size before relaxing)
- .debug_str     0x000000000012e14d      0x130 ./src/event/evbuttonpressed.o
+ .debug_str     0x000000000012e14c      0x130 ./src/event/evbuttonpressed.o
                                        0x7c5e (size before relaxing)
- .debug_str     0x000000000012e27d      0x162 ./src/event/evcheckboxtrigger.o
+ .debug_str     0x000000000012e27c      0x162 ./src/event/evcheckboxtrigger.o
                                        0x7c20 (size before relaxing)
- .debug_str     0x000000000012e3df      0x100 ./src/mdw/ext-freqgen/frequencygenerator.o
-                                     0x10375b (size before relaxing)
- .debug_str     0x000000000012e4df      0xc43 ./src/platform/f7-disco-gcc/board/buttonscontroller.o
-                                     0x1072c0 (size before relaxing)
- .debug_str     0x000000000012f122      0x290 ./src/platform/f7-disco-gcc/board/trace.o
-                                     0x103a42 (size before relaxing)
- .debug_str     0x000000000012f3b2       0xaf ./src/platform/f7-disco-gcc/ext-26pin/ext_26pin.o
-                                      0xf64c8 (size before relaxing)
- .debug_str     0x000000000012f461      0x10b ./src/platform/f7-disco-gcc/mcu/critical/critical.o
-                                     0x103473 (size before relaxing)
- .debug_str     0x000000000012f56c      0x1f4 ./src/platform/f7-disco-gcc/mcu/hal/uart.o
-                                      0xfeffd (size before relaxing)
- .debug_str     0x000000000012f760      0x250 ./src/xf/core/behavior.o
+ .debug_str     0x000000000012e3de      0x100 ./src/mdw/ext-freqgen/frequencygenerator.o
+                                     0x10375a (size before relaxing)
+ .debug_str     0x000000000012e4de      0xc43 ./src/platform/f7-disco-gcc/board/buttonscontroller.o
+                                     0x1072bf (size before relaxing)
+ .debug_str     0x000000000012f121      0x290 ./src/platform/f7-disco-gcc/board/trace.o
+                                     0x103a41 (size before relaxing)
+ .debug_str     0x000000000012f3b1       0xaf ./src/platform/f7-disco-gcc/ext-26pin/ext_26pin.o
+                                      0xf64c7 (size before relaxing)
+ .debug_str     0x000000000012f460      0x10b ./src/platform/f7-disco-gcc/mcu/critical/critical.o
+                                     0x103472 (size before relaxing)
+ .debug_str     0x000000000012f56b      0x1f4 ./src/platform/f7-disco-gcc/mcu/hal/uart.o
+                                      0xfeffc (size before relaxing)
+ .debug_str     0x000000000012f75f      0x250 ./src/xf/core/behavior.o
                                        0xd7db (size before relaxing)
- .debug_str     0x000000000012f9b0       0x75 ./src/xf/core/customevent.o
+ .debug_str     0x000000000012f9af       0x75 ./src/xf/core/customevent.o
                                        0x7b17 (size before relaxing)
- .debug_str     0x000000000012fa25      0x146 ./src/xf/core/initialevent.o
+ .debug_str     0x000000000012fa24      0x146 ./src/xf/core/initialevent.o
                                        0x351d (size before relaxing)
- .debug_str     0x000000000012fb6b      0x170 ./src/xf/core/nulltransition.o
+ .debug_str     0x000000000012fb6a      0x170 ./src/xf/core/nulltransition.o
                                        0x7ae2 (size before relaxing)
- .debug_str     0x000000000012fcdb      0x235 ./src/xf/core/timeout.o
+ .debug_str     0x000000000012fcda      0x235 ./src/xf/core/timeout.o
                                        0x3613 (size before relaxing)
- .debug_str     0x000000000012ff10      0x9ce ./src/xf/port/default/dispatcher-default.o
+ .debug_str     0x000000000012ff0f      0x9ce ./src/xf/port/default/dispatcher-default.o
                                        0xdbd1 (size before relaxing)
- .debug_str     0x00000000001308de      0x5eb ./src/xf/port/default/resourcefactory-default.o
+ .debug_str     0x00000000001308dd      0x5eb ./src/xf/port/default/resourcefactory-default.o
                                        0x7e4d (size before relaxing)
- .debug_str     0x0000000000130ec9     0x4239 ./src/xf/port/default/timeoutmanager-default.o
+ .debug_str     0x0000000000130ec8     0x4239 ./src/xf/port/default/timeoutmanager-default.o
                                       0x16452 (size before relaxing)
- .debug_str     0x0000000000135102      0x13a ./src/xf/port/default/xf-default.o
+ .debug_str     0x0000000000135101      0x13a ./src/xf/port/default/xf-default.o
                                        0x7f31 (size before relaxing)
- .debug_str     0x000000000013523c     0x3fda ./src/xf/port/default-idf/eventqueue-default.o
+ .debug_str     0x000000000013523b     0x3fda ./src/xf/port/default-idf/eventqueue-default.o
                                        0xc1ec (size before relaxing)
- .debug_str     0x0000000000139216      0x21f ./src/xf/port/default-idf/mutex-default.o
+ .debug_str     0x0000000000139215      0x21f ./src/xf/port/default-idf/mutex-default.o
                                        0x7a0f (size before relaxing)
- .debug_str     0x0000000000139435       0x86 ./src/xf/port/idf-stm32cube/port-functions.o
-                                      0xff028 (size before relaxing)
+ .debug_str     0x0000000000139434       0x86 ./src/xf/port/idf-stm32cube/port-functions.o
+                                      0xff027 (size before relaxing)
 
 .comment        0x0000000000000000       0xcf
  .comment       0x0000000000000000       0x50 ./Components/ft5336/ft5336.o
