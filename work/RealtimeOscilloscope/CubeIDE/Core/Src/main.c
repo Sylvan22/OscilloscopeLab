@@ -159,7 +159,7 @@ int main(void)
   MX_USART1_UART_Init();
   MX_TIM1_Init();
   /* USER CODE BEGIN 2 */
-
+  touchgfx_init();
   //HAL_TIM_OC_Start_IT(&htim1);
   //HAL_TIM_Base_Start(&htim1);
   //HAL_TIM_Base_Start_IT(&htim1);
