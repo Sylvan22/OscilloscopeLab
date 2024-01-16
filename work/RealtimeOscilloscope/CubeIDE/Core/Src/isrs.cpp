@@ -2,7 +2,8 @@
 #include "main.h"
 #include "app/factory.h"
 
-uint16_t ADC_Buffer[ADC_VALUES_BUFFER_SIZE];
+
+uint16_t ADC_Buffer[ADC_VALUES_BUFFER_SIZE]__attribute__ ((aligned(32))) ;
 int ADCBufferIndex = 0;
 
 extern "C" void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
@@ -25,10 +26,11 @@ extern "C" void HAL_TIM_OC_DelayElapsedCallback(TIM_HandleTypeDef *htim){
 }
 
 extern "C" void HAL_ADC_ConvCpltCallback(ADC_HandleTypeDef* hadc){
-	//HAL_GPIO_TogglePin(Timer1Toggle_GPIO_Port, Timer1Toggle_Pin);
-	ADC_Buffer[ADCBufferIndex] =HAL_ADC_GetValue(hadc);
+
+	HAL_GPIO_TogglePin(Timer1Toggle_GPIO_Port, Timer1Toggle_Pin);
+	/*ADC_Buffer[ADCBufferIndex] =HAL_ADC_GetValue(hadc);
 	ADCBufferIndex++;
 	if(ADCBufferIndex==ADC_VALUES_BUFFER_SIZE){
 		ADCBufferIndex = 0;
-	}
+	}*/
 }

@@ -52,8 +52,10 @@ void Factory::build()
 {
     Trace::out("Building...");
 
-    HAL_ADC_Start_IT(&hadc3);                     // Start ADC conversion
-    HAL_TIM_OC_Start_IT(&htim1, TIM_CHANNEL_1);   // Start TIM1 with trigger channel 1
+    //HAL_ADC_Start_IT(&hadc3);                     // Start ADC conversion
+    //HAL_TIM_OC_Start_IT(&htim1, TIM_CHANNEL_1);   // Start TIM1 with trigger channel 1
+    HAL_TIM_Base_Start(&htim1);
+    HAL_ADC_Start_DMA(&hadc3, (uint32_t*)ADC_Buffer, ADC_VALUES_BUFFER_SIZE);
 
     getOscilloscopeController().start();
     getGui().start();
