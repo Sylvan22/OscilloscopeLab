@@ -135,16 +135,20 @@ void Controller::doShowAnalogSignal()
 		// set a trigger value => value to start display data
 		// start to display on the firts trigger value found, on a rising or falling edge
 		// then call the drawGraphPoints method by starting on offset and give the correct size
-		int idx = 0;
-		int triggerPoint = 500;
-		int tolerance = 50;
-		while(true){
-			if(_adcValuesBuffer[idx] > (triggerPoint-tolerance) && _adcValuesBuffer[idx] < (triggerPoint+tolerance)){
-				break;
+
+		int idx = 0;// index of the founded trigger point
+		int triggerValue = 2048;// value trigged
+
+		while(true){// try to find a trigger point
+			if(_adcValuesBuffer[idx] >= triggerValue){// if we found a value similar to triggerValue
+
+				if(_adcValuesBuffer[idx] < _adcValuesBuffer[idx+15]){// and if we are on a rising edge
+					break;// we quit the loop, we have found a triggerPoint
+				}
 			}
 
 			idx++;
-			if(idx > _adcValuesBufferSize){//if we reached the limit, we quit the loop
+			if(idx > _adcValuesBufferSize/2){//if we reached the limit, we quit the loop
 				break;
 			}
 		}

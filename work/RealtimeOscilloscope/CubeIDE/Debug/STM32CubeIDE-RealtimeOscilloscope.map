@@ -29354,7 +29354,7 @@ LOAD c:/st/stm32cubeide_1.9.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
 LOAD c:/st/stm32cubeide_1.9.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.win32_1.0.0.202111181127/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
 LOAD c:/st/stm32cubeide_1.9.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.win32_1.0.0.202111181127/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
 
-.debug_info     0x0000000000000000    0xe2322
+.debug_info     0x0000000000000000    0xe2313
  .debug_info    0x0000000000000000      0x51f ./Components/ft5336/ft5336.o
  .debug_info    0x000000000000051f     0x5612 ./Core/Src/isrs.o
  .debug_info    0x0000000000005b31     0x3558 ./Core/Src/main.o
@@ -29435,29 +29435,29 @@ LOAD c:/st/stm32cubeide_1.9.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
  .debug_info    0x0000000000088fca     0x8a58 ./src/app/factory.o
  .debug_info    0x0000000000091a22     0x8d90 ./src/app/freqgencontroller.o
  .debug_info    0x000000000009a7b2     0x850d ./src/app/gui.o
- .debug_info    0x00000000000a2cbf     0x9246 ./src/app/oscilloscopecontroller.o
- .debug_info    0x00000000000abf05     0x2e91 ./src/app/touchgfxtask.o
- .debug_info    0x00000000000aed96      0xa72 ./src/event/evbuttonirq.o
- .debug_info    0x00000000000af808      0xac0 ./src/event/evbuttonpressed.o
- .debug_info    0x00000000000b02c8      0xaa0 ./src/event/evcheckboxtrigger.o
- .debug_info    0x00000000000b0d68     0x4d15 ./src/mdw/ext-freqgen/frequencygenerator.o
- .debug_info    0x00000000000b5a7d     0x61d4 ./src/platform/f7-disco-gcc/board/buttonscontroller.o
- .debug_info    0x00000000000bbc51     0x543e ./src/platform/f7-disco-gcc/board/trace.o
- .debug_info    0x00000000000c108f      0xb6c ./src/platform/f7-disco-gcc/ext-26pin/ext_26pin.o
- .debug_info    0x00000000000c1bfb     0x4a5f ./src/platform/f7-disco-gcc/mcu/critical/critical.o
- .debug_info    0x00000000000c665a     0x2ce2 ./src/platform/f7-disco-gcc/mcu/hal/uart.o
- .debug_info    0x00000000000c933c     0x2e1b ./src/xf/core/behavior.o
- .debug_info    0x00000000000cc157      0x951 ./src/xf/core/customevent.o
- .debug_info    0x00000000000ccaa8      0x505 ./src/xf/core/initialevent.o
- .debug_info    0x00000000000ccfad      0x90b ./src/xf/core/nulltransition.o
- .debug_info    0x00000000000cd8b8      0x665 ./src/xf/core/timeout.o
- .debug_info    0x00000000000cdf1d     0x3106 ./src/xf/port/default/dispatcher-default.o
- .debug_info    0x00000000000d1023      0xb27 ./src/xf/port/default/resourcefactory-default.o
- .debug_info    0x00000000000d1b4a     0x8a54 ./src/xf/port/default/timeoutmanager-default.o
- .debug_info    0x00000000000da59e      0x81e ./src/xf/port/default/xf-default.o
- .debug_info    0x00000000000dadbc     0x4800 ./src/xf/port/default-idf/eventqueue-default.o
- .debug_info    0x00000000000df5bc      0x89c ./src/xf/port/default-idf/mutex-default.o
- .debug_info    0x00000000000dfe58     0x24ca ./src/xf/port/idf-stm32cube/port-functions.o
+ .debug_info    0x00000000000a2cbf     0x9237 ./src/app/oscilloscopecontroller.o
+ .debug_info    0x00000000000abef6     0x2e91 ./src/app/touchgfxtask.o
+ .debug_info    0x00000000000aed87      0xa72 ./src/event/evbuttonirq.o
+ .debug_info    0x00000000000af7f9      0xac0 ./src/event/evbuttonpressed.o
+ .debug_info    0x00000000000b02b9      0xaa0 ./src/event/evcheckboxtrigger.o
+ .debug_info    0x00000000000b0d59     0x4d15 ./src/mdw/ext-freqgen/frequencygenerator.o
+ .debug_info    0x00000000000b5a6e     0x61d4 ./src/platform/f7-disco-gcc/board/buttonscontroller.o
+ .debug_info    0x00000000000bbc42     0x543e ./src/platform/f7-disco-gcc/board/trace.o
+ .debug_info    0x00000000000c1080      0xb6c ./src/platform/f7-disco-gcc/ext-26pin/ext_26pin.o
+ .debug_info    0x00000000000c1bec     0x4a5f ./src/platform/f7-disco-gcc/mcu/critical/critical.o
+ .debug_info    0x00000000000c664b     0x2ce2 ./src/platform/f7-disco-gcc/mcu/hal/uart.o
+ .debug_info    0x00000000000c932d     0x2e1b ./src/xf/core/behavior.o
+ .debug_info    0x00000000000cc148      0x951 ./src/xf/core/customevent.o
+ .debug_info    0x00000000000cca99      0x505 ./src/xf/core/initialevent.o
+ .debug_info    0x00000000000ccf9e      0x90b ./src/xf/core/nulltransition.o
+ .debug_info    0x00000000000cd8a9      0x665 ./src/xf/core/timeout.o
+ .debug_info    0x00000000000cdf0e     0x3106 ./src/xf/port/default/dispatcher-default.o
+ .debug_info    0x00000000000d1014      0xb27 ./src/xf/port/default/resourcefactory-default.o
+ .debug_info    0x00000000000d1b3b     0x8a54 ./src/xf/port/default/timeoutmanager-default.o
+ .debug_info    0x00000000000da58f      0x81e ./src/xf/port/default/xf-default.o
+ .debug_info    0x00000000000dadad     0x4800 ./src/xf/port/default-idf/eventqueue-default.o
+ .debug_info    0x00000000000df5ad      0x89c ./src/xf/port/default-idf/mutex-default.o
+ .debug_info    0x00000000000dfe49     0x24ca ./src/xf/port/idf-stm32cube/port-functions.o
 
 .debug_abbrev   0x0000000000000000    0x1b5ba
  .debug_abbrev  0x0000000000000000      0x23e ./Components/ft5336/ft5336.o
@@ -30176,7 +30176,7 @@ LOAD c:/st/stm32cubeide_1.9.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
  .debug_macro   0x0000000000043b2f      0x31c ./src/xf/port/default-idf/mutex-default.o
  .debug_macro   0x0000000000043e4b      0x8ce ./src/xf/port/idf-stm32cube/port-functions.o
 
-.debug_line     0x0000000000000000    0x77686
+.debug_line     0x0000000000000000    0x77678
  .debug_line    0x0000000000000000      0x6b1 ./Components/ft5336/ft5336.o
  .debug_line    0x00000000000006b1     0x1c6a ./Core/Src/isrs.o
  .debug_line    0x000000000000231b     0x1295 ./Core/Src/main.o
@@ -30257,31 +30257,31 @@ LOAD c:/st/stm32cubeide_1.9.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
  .debug_line    0x0000000000052e00     0x1fdb ./src/app/factory.o
  .debug_line    0x0000000000054ddb     0x2154 ./src/app/freqgencontroller.o
  .debug_line    0x0000000000056f2f     0x2aad ./src/app/gui.o
- .debug_line    0x00000000000599dc     0x1f38 ./src/app/oscilloscopecontroller.o
- .debug_line    0x000000000005b914     0x2847 ./src/app/touchgfxtask.o
- .debug_line    0x000000000005e15b     0x1065 ./src/event/evbuttonirq.o
- .debug_line    0x000000000005f1c0     0x106d ./src/event/evbuttonpressed.o
- .debug_line    0x000000000006022d     0x106e ./src/event/evcheckboxtrigger.o
- .debug_line    0x000000000006129b     0x170c ./src/mdw/ext-freqgen/frequencygenerator.o
- .debug_line    0x00000000000629a7     0x2046 ./src/platform/f7-disco-gcc/board/buttonscontroller.o
- .debug_line    0x00000000000649ed     0x1ac2 ./src/platform/f7-disco-gcc/board/trace.o
- .debug_line    0x00000000000664af      0x983 ./src/platform/f7-disco-gcc/ext-26pin/ext_26pin.o
- .debug_line    0x0000000000066e32     0x16e6 ./src/platform/f7-disco-gcc/mcu/critical/critical.o
- .debug_line    0x0000000000068518     0x1814 ./src/platform/f7-disco-gcc/mcu/hal/uart.o
- .debug_line    0x0000000000069d2c     0x15f7 ./src/xf/core/behavior.o
- .debug_line    0x000000000006b323     0x1023 ./src/xf/core/customevent.o
- .debug_line    0x000000000006c346      0x1cf ./src/xf/core/initialevent.o
- .debug_line    0x000000000006c515     0x1027 ./src/xf/core/nulltransition.o
- .debug_line    0x000000000006d53c      0x222 ./src/xf/core/timeout.o
- .debug_line    0x000000000006d75e     0x1676 ./src/xf/port/default/dispatcher-default.o
- .debug_line    0x000000000006edd4     0x1103 ./src/xf/port/default/resourcefactory-default.o
- .debug_line    0x000000000006fed7     0x1f51 ./src/xf/port/default/timeoutmanager-default.o
- .debug_line    0x0000000000071e28     0x11c3 ./src/xf/port/default/xf-default.o
- .debug_line    0x0000000000072feb     0x1c47 ./src/xf/port/default-idf/eventqueue-default.o
- .debug_line    0x0000000000074c32      0xff4 ./src/xf/port/default-idf/mutex-default.o
- .debug_line    0x0000000000075c26     0x1a60 ./src/xf/port/idf-stm32cube/port-functions.o
+ .debug_line    0x00000000000599dc     0x1f2a ./src/app/oscilloscopecontroller.o
+ .debug_line    0x000000000005b906     0x2847 ./src/app/touchgfxtask.o
+ .debug_line    0x000000000005e14d     0x1065 ./src/event/evbuttonirq.o
+ .debug_line    0x000000000005f1b2     0x106d ./src/event/evbuttonpressed.o
+ .debug_line    0x000000000006021f     0x106e ./src/event/evcheckboxtrigger.o
+ .debug_line    0x000000000006128d     0x170c ./src/mdw/ext-freqgen/frequencygenerator.o
+ .debug_line    0x0000000000062999     0x2046 ./src/platform/f7-disco-gcc/board/buttonscontroller.o
+ .debug_line    0x00000000000649df     0x1ac2 ./src/platform/f7-disco-gcc/board/trace.o
+ .debug_line    0x00000000000664a1      0x983 ./src/platform/f7-disco-gcc/ext-26pin/ext_26pin.o
+ .debug_line    0x0000000000066e24     0x16e6 ./src/platform/f7-disco-gcc/mcu/critical/critical.o
+ .debug_line    0x000000000006850a     0x1814 ./src/platform/f7-disco-gcc/mcu/hal/uart.o
+ .debug_line    0x0000000000069d1e     0x15f7 ./src/xf/core/behavior.o
+ .debug_line    0x000000000006b315     0x1023 ./src/xf/core/customevent.o
+ .debug_line    0x000000000006c338      0x1cf ./src/xf/core/initialevent.o
+ .debug_line    0x000000000006c507     0x1027 ./src/xf/core/nulltransition.o
+ .debug_line    0x000000000006d52e      0x222 ./src/xf/core/timeout.o
+ .debug_line    0x000000000006d750     0x1676 ./src/xf/port/default/dispatcher-default.o
+ .debug_line    0x000000000006edc6     0x1103 ./src/xf/port/default/resourcefactory-default.o
+ .debug_line    0x000000000006fec9     0x1f51 ./src/xf/port/default/timeoutmanager-default.o
+ .debug_line    0x0000000000071e1a     0x11c3 ./src/xf/port/default/xf-default.o
+ .debug_line    0x0000000000072fdd     0x1c47 ./src/xf/port/default-idf/eventqueue-default.o
+ .debug_line    0x0000000000074c24      0xff4 ./src/xf/port/default-idf/mutex-default.o
+ .debug_line    0x0000000000075c18     0x1a60 ./src/xf/port/idf-stm32cube/port-functions.o
 
-.debug_str      0x0000000000000000   0x1394d9
+.debug_str      0x0000000000000000   0x1394cf
  .debug_str     0x0000000000000000     0x516d ./Components/ft5336/ft5336.o
                                        0x5341 (size before relaxing)
  .debug_str     0x000000000000516d   0x101dd5 ./Core/Src/isrs.o
@@ -30442,51 +30442,51 @@ LOAD c:/st/stm32cubeide_1.9.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
                                      0x10bc93 (size before relaxing)
  .debug_str     0x000000000012caca      0xbfb ./src/app/gui.o
                                      0x10a566 (size before relaxing)
- .debug_str     0x000000000012d6c5      0x71e ./src/app/oscilloscopecontroller.o
-                                     0x10bafa (size before relaxing)
- .debug_str     0x000000000012dde3       0xe5 ./src/app/touchgfxtask.o
+ .debug_str     0x000000000012d6c5      0x714 ./src/app/oscilloscopecontroller.o
+                                     0x10baf0 (size before relaxing)
+ .debug_str     0x000000000012ddd9       0xe5 ./src/app/touchgfxtask.o
                                        0xe826 (size before relaxing)
- .debug_str     0x000000000012dec8      0x2a3 ./src/event/evbuttonirq.o
+ .debug_str     0x000000000012debe      0x2a3 ./src/event/evbuttonirq.o
                                        0x7bf5 (size before relaxing)
- .debug_str     0x000000000012e16b      0x130 ./src/event/evbuttonpressed.o
+ .debug_str     0x000000000012e161      0x130 ./src/event/evbuttonpressed.o
                                        0x7c5e (size before relaxing)
- .debug_str     0x000000000012e29b      0x162 ./src/event/evcheckboxtrigger.o
+ .debug_str     0x000000000012e291      0x162 ./src/event/evcheckboxtrigger.o
                                        0x7c20 (size before relaxing)
- .debug_str     0x000000000012e3fd      0x100 ./src/mdw/ext-freqgen/frequencygenerator.o
+ .debug_str     0x000000000012e3f3      0x100 ./src/mdw/ext-freqgen/frequencygenerator.o
                                      0x10375a (size before relaxing)
- .debug_str     0x000000000012e4fd      0xc43 ./src/platform/f7-disco-gcc/board/buttonscontroller.o
+ .debug_str     0x000000000012e4f3      0xc43 ./src/platform/f7-disco-gcc/board/buttonscontroller.o
                                      0x1072bf (size before relaxing)
- .debug_str     0x000000000012f140      0x290 ./src/platform/f7-disco-gcc/board/trace.o
+ .debug_str     0x000000000012f136      0x290 ./src/platform/f7-disco-gcc/board/trace.o
                                      0x103a41 (size before relaxing)
- .debug_str     0x000000000012f3d0       0xaf ./src/platform/f7-disco-gcc/ext-26pin/ext_26pin.o
+ .debug_str     0x000000000012f3c6       0xaf ./src/platform/f7-disco-gcc/ext-26pin/ext_26pin.o
                                       0xf64c7 (size before relaxing)
- .debug_str     0x000000000012f47f      0x10b ./src/platform/f7-disco-gcc/mcu/critical/critical.o
+ .debug_str     0x000000000012f475      0x10b ./src/platform/f7-disco-gcc/mcu/critical/critical.o
                                      0x103472 (size before relaxing)
- .debug_str     0x000000000012f58a      0x1f4 ./src/platform/f7-disco-gcc/mcu/hal/uart.o
+ .debug_str     0x000000000012f580      0x1f4 ./src/platform/f7-disco-gcc/mcu/hal/uart.o
                                       0xfeffc (size before relaxing)
- .debug_str     0x000000000012f77e      0x250 ./src/xf/core/behavior.o
+ .debug_str     0x000000000012f774      0x250 ./src/xf/core/behavior.o
                                        0xd7db (size before relaxing)
- .debug_str     0x000000000012f9ce       0x75 ./src/xf/core/customevent.o
+ .debug_str     0x000000000012f9c4       0x75 ./src/xf/core/customevent.o
                                        0x7b17 (size before relaxing)
- .debug_str     0x000000000012fa43      0x146 ./src/xf/core/initialevent.o
+ .debug_str     0x000000000012fa39      0x146 ./src/xf/core/initialevent.o
                                        0x351d (size before relaxing)
- .debug_str     0x000000000012fb89      0x170 ./src/xf/core/nulltransition.o
+ .debug_str     0x000000000012fb7f      0x170 ./src/xf/core/nulltransition.o
                                        0x7ae2 (size before relaxing)
- .debug_str     0x000000000012fcf9      0x235 ./src/xf/core/timeout.o
+ .debug_str     0x000000000012fcef      0x235 ./src/xf/core/timeout.o
                                        0x3613 (size before relaxing)
- .debug_str     0x000000000012ff2e      0x9ce ./src/xf/port/default/dispatcher-default.o
+ .debug_str     0x000000000012ff24      0x9ce ./src/xf/port/default/dispatcher-default.o
                                        0xdbd1 (size before relaxing)
- .debug_str     0x00000000001308fc      0x5eb ./src/xf/port/default/resourcefactory-default.o
+ .debug_str     0x00000000001308f2      0x5eb ./src/xf/port/default/resourcefactory-default.o
                                        0x7e4d (size before relaxing)
- .debug_str     0x0000000000130ee7     0x4239 ./src/xf/port/default/timeoutmanager-default.o
+ .debug_str     0x0000000000130edd     0x4239 ./src/xf/port/default/timeoutmanager-default.o
                                       0x16452 (size before relaxing)
- .debug_str     0x0000000000135120      0x13a ./src/xf/port/default/xf-default.o
+ .debug_str     0x0000000000135116      0x13a ./src/xf/port/default/xf-default.o
                                        0x7f31 (size before relaxing)
- .debug_str     0x000000000013525a     0x3fda ./src/xf/port/default-idf/eventqueue-default.o
+ .debug_str     0x0000000000135250     0x3fda ./src/xf/port/default-idf/eventqueue-default.o
                                        0xc1ec (size before relaxing)
- .debug_str     0x0000000000139234      0x21f ./src/xf/port/default-idf/mutex-default.o
+ .debug_str     0x000000000013922a      0x21f ./src/xf/port/default-idf/mutex-default.o
                                        0x7a0f (size before relaxing)
- .debug_str     0x0000000000139453       0x86 ./src/xf/port/idf-stm32cube/port-functions.o
+ .debug_str     0x0000000000139449       0x86 ./src/xf/port/idf-stm32cube/port-functions.o
                                       0xff027 (size before relaxing)
 
 .comment        0x0000000000000000       0xcf
