@@ -1,8 +1,0 @@
-c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\xf\include\xf\event.h:42:5:XFEvent::XFEvent(XFEvent::XFEventType, int, interface::XFReactive*)	24	static
-c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\xf\include\xf\event.h:43:13:XFEvent::~XFEvent()	16	static
-c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\xf\include\xf\event.h:43:13:virtual XFEvent::~XFEvent()	16	static
-c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\xf\include\xf\event.h:64:18:virtual bool XFEvent::deleteAfterConsume() const	16	static
-c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\xf\include\xf\customevent.h:37:10:virtual bool XFCustomEvent::deleteAfterConsume() const	16	static
-C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/xf/core/customevent.cpp:3:1:XFCustomEvent::XFCustomEvent(int, interface::XFReactive*)	24	static
-c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\xf\include\xf\customevent.h:22:7:XFCustomEvent::~XFCustomEvent()	16	static
-c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\src\xf\include\xf\customevent.h:22:7:virtual XFCustomEvent::~XFCustomEvent()	16	static

@@ -1,8 +1,0 @@
-c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\middlewares\st\touchgfx\framework\include\touchgfx\font.hpp:146:13:touchgfx::Font::~Font()	16	static
-c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\middlewares\st\touchgfx\framework\include\touchgfx\font.hpp:146:13:virtual touchgfx::Font::~Font()	16	static
-c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\middlewares\st\touchgfx\framework\include\touchgfx\constfont.hpp:36:7:touchgfx::ConstFont::~ConstFont()	16	static
-c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\middlewares\st\touchgfx\framework\include\touchgfx\constfont.hpp:36:7:virtual touchgfx::ConstFont::~ConstFont()	16	static
-c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\touchgfx\generated\fonts\include\fonts\generatedfont.hpp:17:7:touchgfx::GeneratedFont::~GeneratedFont()	16	static
-c:\users\sylva\desktop\courshes\informatiquec2\oscilloscopelab\work\realtimeoscilloscope\ide-touchgfx-gen\touchgfx\generated\fonts\include\fonts\generatedfont.hpp:17:7:virtual touchgfx::GeneratedFont::~GeneratedFont()	16	static
-C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/generated/fonts/src/Table_verdana_40_4bpp.cpp:26:157:void __tcf_0()	8	static
-C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/ide-touchgfx-gen/TouchGFX/generated/fonts/src/Table_verdana_40_4bpp.cpp:24:26:touchgfx::GeneratedFont& getFont_verdana_40_4bpp()	48	static
