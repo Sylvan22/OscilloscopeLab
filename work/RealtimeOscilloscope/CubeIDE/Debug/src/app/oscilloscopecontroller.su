@@ -15,18 +15,18 @@ C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOsci
 C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.h:60:14:virtual uint32_t oscilloscope::Controller::getTDivCount() const	16	static
 C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.h:66:15:oscilloscope::Gui& oscilloscope::Controller::gui() const	16	static
 C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:19:1:oscilloscope::Controller::Controller()	16	static
-C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:30:14:static oscilloscope::Controller& oscilloscope::Controller::getInstance()	8	static
-C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:36:6:void oscilloscope::Controller::initialize(oscilloscope::Gui&, uint16_t*, uint32_t)	24	static
-C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:45:6:void oscilloscope::Controller::start()	16	static
-C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:50:15:virtual XFEventStatus oscilloscope::Controller::processEvent()	24	static
-C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:90:6:virtual void oscilloscope::Controller::onButtonTimePlusPressed()	32	static
-C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:97:6:virtual void oscilloscope::Controller::onButtonTimeMinusPressed()	32	static
-C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:104:6:virtual void oscilloscope::Controller::onCheckBoxTriggerCheckState(bool)	32	static
-C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:111:6:void oscilloscope::Controller::doShowAnalogSignal()	24	static
-C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:128:6:void oscilloscope::Controller::doButtonTimePlusPressed()	48	static
-C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:138:6:void oscilloscope::Controller::doButtonTimeMinusPressed()	48	static
-C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:148:13:std::string oscilloscope::Controller::getText(oscilloscope::TDivValue)	40	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:31:14:static oscilloscope::Controller& oscilloscope::Controller::getInstance()	8	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:37:6:void oscilloscope::Controller::initialize(oscilloscope::Gui&, uint16_t*, uint32_t)	24	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:46:6:void oscilloscope::Controller::start()	16	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:51:15:virtual XFEventStatus oscilloscope::Controller::processEvent()	24	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:91:6:virtual void oscilloscope::Controller::onButtonTimePlusPressed()	32	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:98:6:virtual void oscilloscope::Controller::onButtonTimeMinusPressed()	32	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:105:6:virtual void oscilloscope::Controller::onCheckBoxTriggerCheckState(bool)	32	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:114:6:void oscilloscope::Controller::doShowAnalogSignal()	32	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:159:6:void oscilloscope::Controller::doButtonTimePlusPressed()	48	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:169:6:void oscilloscope::Controller::doButtonTimeMinusPressed()	48	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:179:13:std::string oscilloscope::Controller::getText(oscilloscope::TDivValue)	40	static
 C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.h:27:3:oscilloscope::TDivOption::~TDivOption()	16	static
-C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:162:1:void __static_initialization_and_destruction_0(int, int)	48	static
-C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:162:1:cpp)	8	static
-C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:162:1:cpp)	8	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:193:1:void __static_initialization_and_destruction_0(int, int)	48	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:193:1:cpp)	8	static
+C:/Users/sylva/Desktop/CoursHES/InformatiqueC2/OscilloscopeLab/work/RealtimeOscilloscope/src/app/oscilloscopecontroller.cpp:193:1:cpp)	8	static
