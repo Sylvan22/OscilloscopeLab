@@ -124,23 +124,19 @@ void Controller::doShowAnalogSignal()
 	// nsamples = t * 8000/10m
 	// scale = nSamples/460
 	static float scales[7] = {0.9,0.9,1.8,3.5,8.7,17.4,17.4};// scales for 100kHz sampling period, calculated with above formula
-	float scale = scales[this->_tdivValue];
+	float scale = scales[this->_tdivValue]; // select the current scale to use
 
 	if(!trigger){
 	gui().drawGraphPoints(_adcValuesBuffer, _adcValuesBufferSize, scale);
 	}
-	else
+	else// if we have to trigger
 	{
-		//TODO: create a trigger alghoritm
-		// set a trigger value => value to start display data
-		// start to display on the firts trigger value found, on a rising or falling edge
-		// then call the drawGraphPoints method by starting on offset and give the correct size
 
 		int idx = 0;// index of the founded trigger point
-		int triggerValue = 2048;// value trigged
+		int triggerValue = 2048;// value trigged, here it is the center of the screen
 
 		while(true){// try to find a trigger point
-			if(_adcValuesBuffer[idx] >= triggerValue){// if we found a value similar to triggerValue
+			if(_adcValuesBuffer[idx] >= triggerValue){// if we have surpassed the trigger value
 
 				if(_adcValuesBuffer[idx] < _adcValuesBuffer[idx+15]){// and if we are on a rising edge
 					break;// we quit the loop, we have found a triggerPoint
@@ -152,7 +148,7 @@ void Controller::doShowAnalogSignal()
 				break;
 			}
 		}
-		gui().drawGraphPoints(&_adcValuesBuffer[idx], _adcValuesBufferSize-idx, scale);
+		gui().drawGraphPoints(&_adcValuesBuffer[idx], _adcValuesBufferSize-idx, scale); // display data
 	}
 }
 
