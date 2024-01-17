@@ -123,8 +123,20 @@ void Controller::doShowAnalogSignal()
 
 	// nsamples = t * 8000/10m
 	// scale = nSamples/460
+
+
 	static float scales[7] = {0.9,0.9,1.8,3.5,8.7,17.4,17.4};// scales for 100kHz sampling period, calculated with above formula
 	float scale = scales[this->_tdivValue]; // select the current scale to use
+
+
+/*
+	static uint32_t fsampleHz = 100000;// sampling frequency in Hertz = nsamples/secondes
+	static float t_div[7] = {0.0005,0.0005,0.001,0.002,0.005,0.01,0.01}; // desired time per division
+
+	float nsamples = t_div[this->_tdivValue]*fsampleHz*8;
+	float scale = nsamples/460;
+*/
+
 
 	if(!trigger){
 	gui().drawGraphPoints(_adcValuesBuffer, _adcValuesBufferSize, scale);
