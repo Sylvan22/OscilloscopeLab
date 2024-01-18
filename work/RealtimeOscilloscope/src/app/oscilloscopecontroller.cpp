@@ -115,27 +115,22 @@ void Controller::doShowAnalogSignal()
 {
 	// WARNING:: screen width is 460px
 	// total div: 8 = 460px
-	// 1 div = 57,5px
-	// fsample = 100kHz = 100 samples/ms
-	//nsamples = 8000 = 80ms
-	// => 10ms/div => 8 div => 80ms => 8000 samples => scale = 8000/460
-
-
-	// nsamples = t * 8000/10m
+	//nsamples = 8*t_div*fsampleHz
 	// scale = nSamples/460
 
-
-	static float scales[7] = {0.9,0.9,1.8,3.5,8.7,17.4,17.4};// scales for 100kHz sampling period, calculated with above formula
-	float scale = scales[this->_tdivValue]; // select the current scale to use
-
-
 /*
+ *  Scale calculation:
+ *
 	static uint32_t fsampleHz = 100000;// sampling frequency in Hertz = nsamples/secondes
 	static float t_div[7] = {0.0005,0.0005,0.001,0.002,0.005,0.01,0.01}; // desired time per division
 
-	float nsamples = t_div[this->_tdivValue]*fsampleHz*8;
-	float scale = nsamples/460;
+	float nsamples = t_div[this->_tdivValue]*fsampleHz*8; // required sample number
+	float scale = nsamples/460; // scale
 */
+
+	static float scales[7] = {0.9,0.9,1.8,3.5,8.7,17.4,17.4};// scales for 100kHz sampling period, hardcoded for better calculation speed
+	float scale = scales[this->_tdivValue]; // select the current scale to use
+
 
 
 	if(!trigger){
@@ -146,19 +141,17 @@ void Controller::doShowAnalogSignal()
 
 		int idx = 0;// index of the founded trigger point
 		int triggerValue = 2048;// value trigged, here it is the center of the screen
+		int delta = 4;
 
 		while(true){// try to find a trigger point
-			if(_adcValuesBuffer[idx] >= triggerValue){// if we have surpassed the trigger value
+			if(_adcValuesBuffer[idx] >= triggerValue-delta &&_adcValuesBuffer[idx] <= triggerValue+delta ){// if we have surpassed the trigger value
 
-				if(_adcValuesBuffer[idx] < _adcValuesBuffer[idx+15]){// and if we are on a rising edge
+				if(_adcValuesBuffer[idx] < _adcValuesBuffer[idx+10]){// and if we are on a rising edge
 					break;// we quit the loop, we have found a triggerPoint
 				}
 			}
 
 			idx++;
-			if(idx > _adcValuesBufferSize/2){//if we reached the limit, we quit the loop
-				break;
-			}
 		}
 		gui().drawGraphPoints(&_adcValuesBuffer[idx], _adcValuesBufferSize-idx, scale); // display data
 	}
